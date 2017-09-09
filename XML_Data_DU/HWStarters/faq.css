@@ -4,74 +4,73 @@
 
    This file contains styles used in frequently asked question (FAQ) files
 */
-
 FAQ {
-    margin-top: 10px; 
+	margin-top: 10px;
 }
 
-title    {
-    display: block; 
-    width: 600px; 
-    font-family: Arial, Helvetica, Sans-serif; 
-    font-size: 18pt;
-    text-align: center;
+title {
+	display: block;
+	width: 600px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 18pt;
+	text-align: center;
 }
 
 subtitle {
-    display: block; 
-    width: 600px; 
-    font-family: Arial, Helvetica, Sans-serif; 
-    font-size:14pt; 
-    font-style:italic;
-   text-align: center; 
+	display: block;
+	width: 600px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 14pt;
+	font-style: italic;
+	text-align: center;
 }
 
 author {
-    display: block; 
-    width: 600px; 
-    font-family: Arial, Helvetica, Sans-serif; 
-    font-size:14pt; 
-    font-style:italic;
-    text-align: center; 
+	display: block;
+	width: 600px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 14pt;
+	font-style: italic;
+	text-align: center;
 }
 
-section  {
-    display: block; 
-    width: 600px; 
-    background-color: azure;
-    border: solid 2px black;
-    margin-bottom: 20px; 
-    padding: 10px;
-    margin-left: 10px; 
+section {
+	display: block;
+	width: 600px;
+	background-color: azure;
+	border: solid 2px black;
+	margin-bottom: 20px;
+	padding: 10px;
+	margin-left: 10px;
 }
 
-website  {
-    display: block; 
-    width: 600px; 
-    font-family: Arial, Helvetica, Sans-serif; 
-    font-size: 12pt; 
-    color: blue;
-    margin-left: 10px; 
-    margin-top: 5px; 
+website {
+	display: block;
+	width: 600px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 12pt;
+	color: blue;
+	margin-left: 10px;
+	margin-top: 5px;
 }
 
 question {
-    display: list-item; 
-    list-style-type: disc; 
-    width: 600px;
-    font-family: Times New Roman, Times, Serif;
-    margin-left: 30px; 
-    margin-top: 10px; 
+	display: list-item;
+	list-style-type: disc;
+	width: 600px;
+	font-family: Times New Roman, Times, Serif;
+	margin-left: 30px;
+	margin-top: 10px;
 }
 
 answer, tip {
-    display:block; 
-    width: 565px; 
-    font-family: Times New Roman, Times, Serif;
-    color: darkgreen; 
-    margin-left: 35px; 
+	display: block;
+	width: 565px;
+	font-family: Times New Roman, Times, Serif;
+	color: darkgreen;
+	margin-left: 35px;
 }
 
 para {
-    display: block;
+	display: block;
 }
