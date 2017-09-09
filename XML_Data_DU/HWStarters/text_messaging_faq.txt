@@ -1,0 +1,197 @@
+URL: www.verizonwireless.com/support/text-messaging-faqs
+Retrieved 2006-08-23
+
+General Information
+  What is a text message (SMS)?
+A text message is a short, typed message you send or receive on a mobile device. Text messages have a 160-character limit & can contain letters, numbers & special characters, like punctuation marks. They may also include links & emoticons.
+
+You can send and receive text messages to other mobile devices and email addresses directly from your mobile device, while keeping your communication short and private. It's a quick and easy way to stay in touch with your friends and family when you aren’t able to step away for a phone call.
+
+If you don't have a mobile phone, you can send a text message to someone in any of following ways:
+Email application (e.g. Outlook®, Hotmail®, Yahoo!® Mail, etc.)
+Text messaging website on the internet (e.g. Verizon Messages in My Verizon)
+PC with messaging software
+Any device capable of text messaging
+
+
+  What's the difference between a text message and an alert?
+An alert is a notification that appears on your device, letting you know that some type of information has been delivered. An alert can be any of the following:
+A notification of a text message or voice mail message
+A reminder from an app (e.g., an upcoming event on your calendar)
+An information alert about today's weather, horoscopes, stocks, news, sports scores, etc.
+A text message is a typed message sent to your device. It can come from another mobile phone, tablet or other text messaging device or website.
+
+
+  How much does text messaging cost?
+Text messaging charges vary by plan:
+Unlimited messaging - Send & receive as many texts as you want without paying additional fees. If you're already subscribed to The Verizon Plan or The MORE Everything® Plan, unlimited messaging is included.
+
+We're encouraging all customers to consider the new Verizon Plan. You'll get and keep more of your data with Carryover Data, Safety Mode and other great benefits as well. Learn more about the new Verizon Plan.
+
+Messaging allowance - A set number of messages is included in your monthly plan (e.g., 1000 messages). Each message you send or receive is deducted from that amount with no additional charge. If you exceed that allowance, your messages are billed individually at a "pay as you go" rate.
+
+Pay per message - Each message you send or receive is billed individually at a set rate that's outlined in your plan.
+If you aren't sure how text messages are billed on your current plan, you can find that information on the following pages in My Verizon:
+Standard monthly accounts - My Plan page in My Verizon
+Prepaid accounts - My Plan page in My Verizon for Prepaid
+
+
+  How do I sign up for text messaging?
+Text messaging is automatically included with your wireless service. Your plan determines if and when you’re charged for messages. With The Verizon Plan you get unlimited domestic and international messaging while in the US. For plans that don't include a text messaging allowance, you can pay for text messaging on a pay-as-you-go basis.
+
+Get more plan flexibility & international options with the new Verizon Plan. The new Verizon Plan gives you more data, Carryover Data and other great benefits as well, like unlimited calling to Mexico and Canada for only $5/month per line. Plus you can take your domestic talk, text and data allowances with you to Mexico and Canada for $2/day (included on XL or larger at no additional charge).
+
+To change your text messaging plan, go to the Change Your Plan page in My Verizon.
+
+
+
+  Where is text messaging currently available?
+Please refer to the Verizon Wireless Coverage Locator for further information.
+
+
+
+  Is text messaging available with prepaid plans?
+Yes, text messaging service is automatically included with every new activation. Messaging rates vary according to your selected prepaid plan.
+
+We're encouraging all customers to consider the new Verizon Plan. You'll get and keep more of your data with Carryover Data, Safety Mode and other great benefits as well. Learn more about the new Verizon Plan.
+
+
+
+  What's the character limit of a text message?
+You can include up to 160 characters in a standard text message. Multimedia messages can have up to 1000 characters.
+
+The 160-character limit includes the sender's email address (if applicable), the composed message and, if provided, the subject and callback number.
+
+
+
+Receiving Text Messages
+How do I know if a text message has arrived on my device?
+Most devices have both audible and visual notifications when a message has been received. Generally, if an envelope icon appears on your screen, it means you've gotten a text message.
+
+Device-specific visual instructions about text messaging are available for many newer devices on our Interactive Simulator page. Select your device from the list and click on the Text Messaging section.
+
+If your device isn't listed, refer to your device's User Guide for details.
+
+
+
+If I have my device turned off, will I still receive text messages?
+If a message is sent to you while your device is off, or while you're traveling outside of the Verizon Wireless coverage area, your message will be stored for later delivery. Your device must be turned back on and have coverage for the message to be delivered to you. The network will attempt to deliver the message for 5 days (120 hours) from the date of receipt. Messages not delivered within 5 days will be deleted.
+
+
+
+If my device's memory is full, will I still receive text messages?
+When the device's memory is full, you may not be able to send or receive messages. Memory capacity varies by make and model of the device. You'll receive a warning that the memory is almost full or already full (message varies by device). When the memory is full, you'll have to delete old messages in order to receive new incoming messages.
+
+
+
+If I'm on a call, will I still receive text messages?
+We support the ability to talk and text simultaneously, but this varies by device. If you're on a call, most devices will let you continue receiving messages, while others will deliver messages after the call is completed.
+
+
+
+Can I receive text messages while outside the Verizon Wireless network?
+Yes, refer to the Verizon Wireless Coverage Locator to look up available text message coverage areas.
+
+
+
+Can I receive text messages from mobile devices on other wireless carriers?
+Yes, you can receive messages from people who subscribe to other carriers.
+
+
+
+How do I opt-out or unsubscribe to a Short Code Text Messaging program?
+From your phone, text or reply STOP in the body of the message to the program's Short Code.
+
+A confirmation of the cancellation will be sent to your phone as a text message.
+
+
+
+Sending Messages
+Who can I send messages to?
+You can send text messages to most 10-digit mobile numbers in the US, Canada and Puerto Rico. You can also send messages to any email address in the world.
+
+If you’re already subscribed to The Verizon Plan or The MORE Everything Plan, then international messaging while in the US is included with your plan. If you're on another plan, you can still send international text messages for an additional charge. Refer to the International Services While in the US page for more information.
+
+Get more plan flexibility and international options with the new Verizon Plan. The new Verizon Plan gives you more data, Carryover Data and other great benefits as well, like unlimited calling to Mexico and Canada for only $5/month per line. Plus you can take your domestic talk, text and data allowances with you to Mexico and Canada for $2/day (included on XL or larger at no additional charge).
+
+
+
+How can I send a text message?
+You can send a text message from:
+A mobile phone
+A tablet
+Your email
+The Verizon Messages page in My Verizon
+
+
+How do I send a text message from my mobile phone?
+The steps for sending text messages vary by phone. For step-by-step visual instructions about how to send a text message, go to our Interactive Simulator page and select your device from the list. Then refer to the Text Messaging section of the simulator for your device.
+
+If your device isn't listed on the Interactive Simulator page, refer to your User Guide for more information.
+
+Note: Each text message has a 160-character limit. This includes the email address indicated by the sender, the message content, and if provided, the subject and callback number. Message length may vary depending on the system and equipment factors.
+
+
+
+How do I send text messages from the Verizon Messages page in My Verizon?
+To send a message from Verizon Messages online:
+Go to the Verizon Messages page in My Verizon.
+Enter a 10-digit mobile number or email address in the To field.
+Compose your message.
+Click Send.
+You've successfully sent a message through Verizon Messages.
+
+
+
+How do I send a text message by email?
+You can send a text message from your email to any Verizon Wireless mobile number.
+Compose a message as if you were sending a standard email.
+In the To field, enter the 10-digit mobile number of the recipient followed by @vtext.com (e.g., 9495551212@vtext.com).
+Send the message.
+You've successfully sent a text message from your email.
+
+
+
+Can I include an auto signature in my text messages?
+It depends on your device. Many devices support the ability to add auto signatures to your text messages. The characters in your auto signature count toward any message length limits (commonly 160 characters).
+
+If your device supports this functionality, you'll typically find the option to create an auto signature for text messages within the device's messaging settings menu. Please consult your device's User Guide for specific instructions.
+
+
+
+Storing Messages
+How many text messages can I store on my device at one time?
+Storage capacity varies by device. Refer to your device's User Guide for details. The number of messages that can be stored is determined by the capacity available on your device.
+
+Note: Once your inbox is full, you won't be able to receive new messages until you delete old messages.
+
+
+
+How long can I store my text messages after I've received them?
+There's no time limit for message storage, so you can store them for as long as you like.
+
+If you reach the maximum storage capacity for your device, you won't be able to receive new messages until you delete old messages to create additional space.
+
+
+
+How do I block unwanted text messages?
+You can block unwanted text messages for up to 5 numbers to prevent them from contacting you. Go to our Call and Message Blocking page to learn more.
+
+To block unwanted text messages from internet domains and emails:
+Go to the Internet Spam Blocking page in My Verizon.
+Enter the internet domain or email address you want to block.
+Click Apply.
+You've successfully set up Internet Spam Blocking.
+
+
+
+Can I print my text messages?
+Most devices don't offer the ability to print a text message directly from the messaging app. However, you can forward text messages to an email address, and view or print them just like any other email.
+
+
+
+Troubleshooting
+I'm having trouble sending and/or receiving text messages. What should I do?
+If you're having trouble sending or receiving text messages, our Troubleshooting Assistant may be able to help you resolve the issue.
+
+Select your device from the list and go to the Messaging section for troubleshooting steps.

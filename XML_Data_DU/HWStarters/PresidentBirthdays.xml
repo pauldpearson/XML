@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<presidents>
+  <president>
+    <name>George Washington</name>
+    <birthday>2/22/1732</birthday>
+  </president>
+  <president>
+    <name>John Adams</name>
+    <birthday>10/30/1735</birthday>
+  </president>
+  <president>
+    <name>Thomas Jefferson</name>
+    <birthday>4/13/1743</birthday>
+  </president>
+  <president>
+    <name>James Madison</name>
+    <birthday>3/16/1751</birthday>
+  </president>
+  <president>
+    <name>James Monroe</name>
+    <birthday>4/28/1758</birthday>
+  </president>
+  <president>
+    <name>John Adams</name>
+    <birthday>7/11/1767</birthday>
+  </president>
+  <president>
+    <name>Andrew Jackson</name>
+    <birthday>3/15/1767</birthday>
+  </president>
+  <president>
+    <name>Martin VanBuren</name>
+    <birthday>12/5/1782</birthday>
+  </president>
+  <president>
+    <name>William Harrison</name>
+    <birthday>2/9/1773</birthday>
+  </president>
+  <president>
+    <name>John Tyler</name>
+    <birthday>3/29/1790</birthday>
+  </president>
+  <president>
+    <name>James Polk</name>
+    <birthday>11/2/1795</birthday>
+  </president>
+  <president>
+    <name>Zachary Taylor</name>
+    <birthday>11/24/1784</birthday>
+  </president>
+  <president>
+    <name>Millard Fillmore</name>
+    <birthday>1/7/1800</birthday>
+  </president>
+  <president>
+    <name>Franklin Pierce</name>
+    <birthday>11/23/1804</birthday>
+  </president>
+  <president>
+    <name>James Buchanan</name>
+    <birthday>4/23/1791</birthday>
+  </president>
+  <president>
+    <name>Abraham Lincoln</name>
+    <birthday>2/12/1809</birthday>
+  </president>
+  <president>
+    <name>Andrew Johnson</name>
+    <birthday>12/29/1808</birthday>
+  </president>
+  <president>
+    <name>Ulysses Grant</name>
+    <birthday>4/27/1822</birthday>
+  </president>
+  <president>
+    <name>Rutherford Hayes</name>
+    <birthday>10/4/1822</birthday>
+  </president>
+  <president>
+    <name>James Garfield</name>
+    <birthday>11/19/1831</birthday>
+  </president>
+  <president>
+    <name>Chester Arthur</name>
+    <birthday>10/5/1830</birthday>
+  </president>
+  <president>
+    <name>Grover Cleveland</name>
+    <birthday>3/18/1837</birthday>
+  </president>
+  <president>
+    <name>Benjamin Harrison</name>
+    <birthday>8/20/1833</birthday>
+  </president>
+  <president>
+    <name>William McKinley</name>
+    <birthday>1/29/1843</birthday>
+  </president>
+  <president>
+    <name>Theodore Roosevelt</name>
+    <birthday>10/27/1858</birthday>
+  </president>
+  <president>
+    <name>William Taft</name>
+    <birthday>9/15/1857</birthday>
+  </president>
+  <president>
+    <name>Woodrow Wilson</name>
+    <birthday>12/28/1856</birthday>
+  </president>
+  <president>
+    <name>Warren Harding</name>
+    <birthday>11/2/1865</birthday>
+  </president>
+  <president>
+    <name>Calvin Coolidge</name>
+    <birthday>7/4/1872</birthday>
+  </president>
+  <president>
+    <name>Herbert Hoover</name>
+    <birthday>8/10/1874</birthday>
+  </president>
+  <president>
+    <name>Franklin Roosevelt</name>
+    <birthday>1/30/1882</birthday>
+  </president>
+  <president>
+    <name>Harry Truman</name>
+    <birthday>5/8/1884</birthday>
+  </president>
+  <president>
+    <name>Dwight Eisenhower</name>
+    <birthday>10/14/1890</birthday>
+  </president>
+  <president>
+    <name>John Kennedy</name>
+    <birthday>5/29/1917</birthday>
+  </president>
+  <president>
+    <name>Lyndon Johnson</name>
+    <birthday>8/27/1908</birthday>
+  </president>
+  <president>
+    <name>Richard Nixon</name>
+    <birthday>1/9/1913</birthday>
+  </president>
+  <president>
+    <name>Gerald Ford</name>
+    <birthday>7/14/1913</birthday>
+  </president>
+  <president>
+    <name>James Carter</name>
+    <birthday>10/1/1924</birthday>
+  </president>
+  <president>
+    <name>Ronald Reagan</name>
+    <birthday>2/6/1911</birthday>
+  </president>
+  <president>
+    <name>George Bush</name>
+    <birthday>6/12/1924</birthday>
+  </president>
+  <president>
+    <name>William Clinton</name>
+    <birthday>8/19/1946</birthday>
+  </president>
+  <president>
+    <name>George Bush</name>
+    <birthday>7/6/1946</birthday>
+  </president>
+  <president>
+    <name>Barack Obama</name>
+    <birthday>8/4/1961</birthday>
+  </president>
+  <president>
+    <name>Hillary Clinton</name>
+    <birthday>10/26/1947</birthday>
+  </president>
+  <president>
+    <name>Donald Trump</name>
+    <birthday>6/14/1946</birthday>
+  </president>
+</presidents>

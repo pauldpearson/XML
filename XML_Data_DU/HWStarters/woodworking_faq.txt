@@ -1,0 +1,745 @@
+URL: www.faqs.org/faqs/woodworking/faq/faq
+Retrieved: 2016-08-23
+Newsgroup: rec.woodworking
+
+Copyright (c) 1994 by James J. Roche. All rights reserved. 
+
+I have been reading and archiving rec.woodworking since its inception
+as net.rec.wood back in 1984. Below are some of the topics that seem to
+come up frequently.
+
+If you have any constructive comments please let me know. If there is
+something you would like to see added please pass it on to me.
+
+TABLE OF CONTENTS:
+	1). Should I buy a table saw or a radial arm saw?
+	2). Which type of dado blade should I buy, the dial (wobble type) or
+		the stacking (chipper type)?
+	3). How do I cut the perfect dado if both types of dado blades have
+		shortcomings?
+	4). Should I buy a Sears blurfl?
+	5). Should I buy a Taiwanese clone blurfl?
+	6). How do I remove paint?
+	7). Should I use a hot melt glue gun for my next project?
+	8). Where can I get plans for the New Yankee Workshop projects?
+	9). What is the best woodworking magazine?
+	10). What is a board foot?
+	11). What is the correct way to handle the glue squeeze out problem?
+	12). What books should I purchase to learn about various aspects of
+		woodworking?
+	13). How do I finish toys so that they are non-toxic?
+	14). What size drill bit do I use for a wood screw?
+	15). How do I finish the edge of plywood?
+	16). Which saw blade should I buy?
+	17). Where are the archives for rec.woodworking?
+	18). Where can I find cradle plans?
+	19). Where can I find futon plans?
+	20). Where can I get information about particle board?
+	21). What are some of the common woodworking terms/abbreviations?
+	22). How do I finish a cutting board?
+	23). What is snipe and how do I eliminate it?
+	24). How is lumber graded?
+
+
+1). Should I buy a table saw or a radial arm saw?
+
+	Table saws work best for ripping. Radial arm saws work best for
+	crosscutting, but are limited by their arm's length. Both 
+	saws will perform both tasks. The radial arm is more adaptable for 
+	non-sawing tasks. For instance, overhead routing, surface planing, and 
+	drum sanding attachments are available for some radial arm saws. You
+	can buy a disk sanding attachment for use on most table saws.
+
+	Ripping on the radial arm saw is difficult because it is necessary
+	to push the lumber under the motor housing.  This problem can be
+	minimized by use of pushsticks and holddown wheels. Maximum rip width
+	is normally limited by the length of the arm. Building a secondary rip
+	fence on the other side of the table from the column will enable you to
+	rip wider pieces, but the off-cut piece width is then limited. Radial
+	arm saws are more prone to overheating during rips in thick wood since
+	the teeth stay in the cut longer, unless you cut substantially into
+	the table top and even then there is no place for the sawdust to exit.
+
+	Crosscutting on the table saw is difficult because it is tough to
+	keep a board much longer than 4 ft square to the blade.  This
+	problem can be minimized by building a good sliding panel cutter. Some
+	table saws have built-in sliding tables, and aftermarket sliding table
+	attachments are available for most saws. A couple of saws have sliding
+	arbors, enabling them to work as inverted radial arm saws. The arbors
+	typically don't slide as far as the length of many radial arms (for a
+	review of 2 of these saws, see the April 1992 issue of FWW).
+
+	Both saws are capable of accurate work. The radial arm saw, with its
+	cantilevered arm attached to a cantilevered column, is typically less
+	rigid than the table saw, which usually have their arbor trunions 
+	bolted to the table in a wide pattern. Worn arm bearing in radial arm 
+	saws can also contribute to wander in the cut. In table saws, play of
+	the miter gauge bar will adversely affect accuracy.
+
+	Both table saws and radial arm saws need to be aligned to work
+	optimally. There are more aligning tasks to be performed on a radial
+	arm saw than on a table saw. Radial arm saws typically require
+	realignment more frequently than table saw, perhaps because of the 
+	stresses put on the cantilevered assemblies.
+
+	Radial arm saws don't need as much space around them as table saws for
+	performing equivalent tasks. On the radial arm saw, boards are always
+	oriented the same way whether you are ripping or crosscutting, so you
+	need space to the left and right of the	blade, and only as wide as the
+	widest board you're cutting. On the table saws, boards are oriented at 
+	right angles depending on whether you're ripping or crosscutting. Thus,
+	you need space in front and in back for ripping, and to the left and 
+	right as well for crosscutting.
+
+	It seems to be easier to engineer and manufacture a table saw than a
+	radial arm saw, which has more moving parts that must withstand large
+	forces without deflection or play. It can therefore be argued that if
+	you're on a budget, a cheap table saw may work better for you than a 
+	cheap radial arm saw.
+
+	Some people say the radial arm saw is more dangerous because the blade
+	is exposed above the work surface, and because the blade's location
+	varies as the cut progresses. Angled crosscutting is particularly
+	dangerous since the blade is now cutting where one normally holds the
+	work. The spin direction of the blade tends to lift the work off of
+	the table when ripping, and can pull the carriage into the work
+	(resulting in binding of the saw or serious injury to a careless
+	operator) in the crosscut position. So-called "safety-blades" have
+	a shoulder in front of each tooth, thus limiting the amount of pull
+	generated and reducing these tendencies.
+
+	Some people say the table saw is more dangerous because you can't 
+	see where the blade is like you can with the radial arm saw. On the
+	other hand, the blade is always in the same spot on the table. The
+	spin action of the table saw's blade tends to keep the work down on
+	the table, but it can also throw the work, and off-cuts, back at the
+	operator.
+
+	Both machines are very dangerous and should be treated with much
+	respect.
+
+	As with all tool buying decisions, you should consider your intended
+	applications, both now and in the future. The general consensus is that
+	if you're building things like jungle gyms, house additions, or trim
+	work (moldings), a radial arm saw may be best. If you're building 
+	things like fine furniture or cabinets, a table saw may be more a
+	more appropriate choice.
+
+	A number of people have reported that the addition of a motorized
+	miter box to a table saw is a satisfying combination.
+
+	Taunton Press publishes a softcover book titled "Fine Woodworking on
+	The Small Workshop." It contains a number of articles on designing and
+	buying equipment for small shops, but is geared to furnituremaking.
+	The majority of the recommendations are for getting a table saw first,
+	with one writer claiming a bandsaw is the first tool to buy.
+
+2). Which type of dado blade should I buy, the dial (wobble type) or
+the stacking (chipper type)?
+
+	The wobble type is very simple to use with infinite settings
+	between approximately 1/4 inch and 13/16 inch. It does not produce
+	true right angle cuts because of the design. 
+
+	The chipper type doesn't have the same infinite setting for width.
+	You can achieve nearly infinite settings by adding shims with
+	thicknesses of 1/32, 1/64, 1/128, etc.  It will cut a square bottom
+	on the dado, but it will also leave 2 grooves on the edges of the
+	dado. The reason for this is that the blades are slightly larger
+	than the chippers.  The larger blades are to reduce the splintering.
+	The blades can be reground to be equal to the size of the chippers
+	at the possible cost of increased splintering. Some say the grooves
+	are a benefit because they provide relief for gluing joints. 
+
+	Many people claim that the wobble type is easier to set up.
+
+	The August 1991 Fine Woodworking further studies the features of
+	the various types of dado blades.
+
+3). How do I cut the perfect dado if both types of dado blades have
+shortcomings?
+
+	Your best bet would be to cut it with a router.
+
+4). Should I buy a Sears blurfl?
+
+	Most people agree that the Sears stationary power tools sold today
+	aren't the same quality as the Sears tools sold 20 years ago.  
+	It can be argued that if you can't afford to buy a Delta, then
+	you should be looking at one of the Taiwanese clones rather than
+	looking at Sears.
+
+5). Should I buy a Taiwanese clone blurfl?
+
+	It depends on how much money you have. If you can afford the
+	Delta blurfl you should probably get it. Buyers should be
+	wary that not all Taiwanese clones are quality machines. The
+	general consensus is that Grizzly has good quality control.
+
+	It should be noted that some of Delta tools are now being made
+	in Taiwan. One would hope that Delta quality control is better than
+	some of the cheaper imports.
+
+
+6). How do I remove paint?
+
+	There are many ways to strip paint from wood.
+
+	Paint can be removed by scraping and/or sanding.
+	Paint can be removed by using chemical paint removers.
+	Paint can be removed by using heat.
+	Paint can be removed by sandblasting.
+	Paint can be removed by a new product known as Peel-Away.
+	Rumor has it that oven cleaner also works.
+
+	If you know of another way to remove paint please feel free to pass
+	the information along. 
+
+7). Should I use a hot melt glue gun for my next project?
+
+	The general consensus is that hot melt glue is not adequate
+	for woodworking projects. However, hot melt glue guns can
+	have a place in the shop. Many people like to use them for
+	tacking items together such as when building forms or jigs.
+
+8) Where can I get plans for the New Yankee Workshop projects?
+
+	Plans for any of Norm's projects can be ordered for $7.50 from
+
+        (project name)
+        New Yankee Workshop
+        P.O. Box 645
+        Bedford, MA  01730
+
+	Videos, which include a copy of the plans, cost $24.95 plus shipping
+	and handling, from 800-272-0280.  Both the address and phone number
+	are given at the end of each show.
+
+	Most of the projects from the first two seasons are in the two
+	New Yankee Workshop books.  For the workbench, one important
+	dimension is *not* given in the book, though it can, I think,
+	be calculated.
+
+9) What is the best woodworking magazine?
+
+	There are many good woodworking magazines. Two that are frequently
+	recommended in this group are Fine Woodworking and Woodsmith.
+
+	Fine Woodworking is a bit on the artsy side and more for the
+	experienced woodworker. It does not get into the small details
+	of a project.
+
+	Woodsmith provides much more details for projects. Woodsmith is
+	well suited for both the amateur and experienced woodworker.
+
+10) What is a board foot?
+
+	A board foot is a common unit used in the measurement of wood.
+	It is equal to 1 foot length x 1 foot width x 1 inch thick.
+	It should be noted that the thickness is nominal thickness.
+	After drying and surfacing the usual thickness of a 1 inch
+	board is 13/16.
+
+	A board 10 feet long x 1 foot wide x 2 inches thick would be
+	equal to 20 board feet.
+
+11) What is the correct way to handle the glue squeeze out problem?
+
+	Use the right amount of glue.  The (obvious) danger is a glue
+	starved joint.
+
+	 Wipe off the excess glue immediately with a damp sponge or paper
+	towel.  This method gets mixed reviews.  Some claim the water-glue
+	mixture will soak into the wood and show up when the piece is finished.
+	Others say that this is not a problem.  The effectiveness of this
+	method probably depends on the type of wood and finish that are used.
+
+	Allow the glue to harden somewhat (1/2 - 2 hrs) and then
+	chisel/scrape it off.  Some recommend removing the glue after it
+	begins to film over.
+
+	Either finish the pieces ahead of time or apply paste wax.  This
+	should prevent the glue from sticking.  The problem with this is
+	removing the paste wax prior to finishing.
+
+	Use a plastic drinking straw cut at 45 degrees to scoop the glue
+	out of the inside corner.  As the straw fills up, it can be trimmed to
+	provide a fresh surface.
+
+12) What books should I purchase to learn about various aspects of woodworking?
+
+	Thanks to Ken Smith (kensmith@cs.Buffalo.EDU) for providing the
+	ISBN numbers along with a couple of additions to the list.
+
+	GENERAL WOODWORKING
+		Cabinetmaking and Millwork - John L. Feirer
+			ISBN 0-02-675950-0
+		New Yankee Workshop - Norm Abram
+			ISBN 0-316-00454-5
+		Classics From The New Yankee Workshop - Norm Abram
+			ISBN 0-316-00455-3
+		Mostly Shaker - Norm Abram
+			ISBN 0-316-00473-1
+		Encyclopedia of Furniture Making - Ernest Joyce
+			ISBN 0-8069-6441-3
+
+
+	FINISHING
+		The Woodfinishing Book - Michael Dresdner
+			ISBN 1-56158-037-6
+
+	INTRODUCTORY WOODWORKING
+		Basic Woodworking - Sunset Books
+			ISBN 0-376-0-1628-0
+
+	JOINERY
+		Tage Frid Teaches Woodworking: Joinery Tools and Techniques
+				- Tage Frid
+			ISBN 0-918804-03-5
+		Tage Frid Teaches Woodworking: Shaping, Veneering, Finishing
+				- Tage Frid
+			ISBN 0-918804-11-6 (out of print though)
+		Tage Frid Teaches Woodworking: Furniture Projects
+				- Tage Frid
+			ISBN 0-918804-40-X
+
+
+	TOOLS
+		Router Jigs and Techniques - Patrick Spielman
+			ISBN 0-8069-6694-7
+		200 Original Shop Aids & Jigs for Woodworkers -Rosario Capotosto
+
+	WOOD
+		Understanding Wood - R. Bruce Hoadley
+			ISBN 0-918804-05-1
+
+13) How do I finish toys so that they are non-toxic?
+
+	a.  Behlens Salad Bowl Finish.  This product has been approved by
+	    the FDA for use on objects that will come in contact with
+	    food.  It produces a nice, semi-gloss finish.
+	    (Apparently the can no longer states the FDA approval, but
+	     product is still safe for food contact after appropriate
+	     drying time - 12/30/94).
+	b.  Any vegetable oil. Could become rancid after a period of time.
+	c.  Walnut oil.  It reacts with the air and hardens into a true
+	    finish.  It works particularly well when the oil is heated
+	    and the item is dipped into the warm oil. Available at health
+	    food or large grocery stores.  Don't buy the gourmet stuff!
+	d.  Mineral oil or vaseline.
+	e.  Water-based polyurethanes.  These are new products which are
+	    very different from the more familiar oil-based
+	    polyurethanes.  They are totally non-toxic, dry quickly, and
+	    have no strong odors when applying.
+	f.  Pure Tung Oil. It has no driers or solvents. It is essentially
+	    just a vegetable oil but produces a nice finish that won't go
+	    rancid. Use only Tung Oil that is "pure".
+	g.  Rumor has it that shellac is also safe once it dries. I have
+	    been unable to verify this.
+	h.  Watco claims its oils are suitable for food or baby use if they've  
+	    been allowed to dry for 30 days or more. They claim that it takes  
+	    this time for full polymerization.
+	i.  Paint. Some paints claim to be non-toxic when dry.
+	h.  Leave items unfinished.
+
+	If you are unsure about any finish you plan to use, contact the
+	manufacturer and request the information. You can also request
+	an MSDS (Materials Safety Data Sheet).
+
+14) What size drill bit do I use for a wood screw?
+
+  Screw Gage    Shank    Shank     Pilot     Pilot
+   Number        Hole    Size      Soft Wd   Hard Wd
+       0         1/16    .060      1/64      1/32
+       1         5/64    .073      1/32      1/32
+       2         3/32    .086      1/32      3/64
+       3         7/64    .099      3/64      1/16
+       4         7/64    .112      3/64      1/16
+       5         1/8     .125      1/16      5/64
+       6         9/64    .138      1/16      5/64
+       7         5/32    .151      1/16      3/32
+       8         11/64   .164      5/64      3/32
+       9         3/16    .177      5/64      7/64
+      10         3/16    .190      3/32      7/64
+      11         13/64             3/32      1/8
+      12         7/32    .216      7/64      1/8
+      14         1/4     .242      7/64      9/64
+      16         17/64   .268      9/64      5/32
+      18         19/64   .294      9/64      3/16
+      20         21/64   .320      11/64     13/64
+
+15) How do I finish the edge of plywood?
+	a) Wood tape. It comes in 2 forms, one that can be ironed on, and
+	   one that can be contact cemented on. The tape is approximately
+	   1 inch wide, and can be trimmed with a plane, router, or knife.
+	b) Glue strips of wood, either purchased or cut from lumber.
+
+16). Which saw blade should I buy?
+	There is an excellent article on evaluating carbide tipped
+	sawblades in issue #72 of Fine Homebuilding (March 1992).
+
+	To summarize the article:
+
+	An expensive blade will typically last longer than a cheap
+	blade and the cost difference is made up by the number of
+	extra sharpenings available from the investment.
+
+	A blade that has been tensioned will run truer and cost more
+	than a blade that hasn't been tensioned.
+
+	Carbide blades will last up to 60 times longer than steel blades.
+
+17). Where are the archives for rec.woodworking?
+	There are 2 archives that I know about.
+
+	The first is <ftp://ftp.cs.rochester.edu/pub/archives/rec.woodworking>.
+	Currently it contains summaries of past discussions of tools, some
+	safety related notes, and some of the FAQ postings. Below is
+	the current list of files available for ftp from cs.rochester.edu:
+
+		 15496 Sep 28 14:48 address
+		128083 Oct  7 11:36 bandsaw
+ 		 51637 Sep 28 15:21 biscuit_joiners
+  		  6125 Oct 28 09:13 crib_safety
+ 		 42264 Oct  1 09:05 dust_collect
+		106944 Sep 29 09:29 jointer
+ 		 15746 Sep 28 16:03 miter_saw
+ 		 16610 Oct  5 13:39 motors
+ 		 52704 Sep 29 10:51 planer
+ 		 44905 Oct  1 14:15 radial_saw
+		140134 Oct  6 13:01 routers
+ 		 54977 Feb 19 11:19 ryobi.bt3000
+ 		 48837 Oct 27 10:35 sander_belt
+ 		 42432 Oct 27 10:39 sander_misc
+ 		 47661 Oct 27 10:40 sander_random-orbit
+  		  7975 Feb  5 12:44 sawzall
+ 		 34745 Oct  1 09:23 scrollsaw
+ 		 27066 Nov 12 11:27 shop_heat
+ 		 26377 Oct 28 09:17 toy_safety
+
+	The second is petroglyph.cl.msu.edu (or 35.8.3.50).
+
+		FTP: /pub/woodwork/images/furniture
+
+		URL (World Wide Web client):
+
+		Use your favorite WWW client to open the URL:
+
+		http://petroglyph.cl.msu.edu/~tigger/WoodWorkPhoto.html
+
+		For example using Mosaic, you could type:
+
+		Mosaic http://petroglyph.cl.msu.edu/~tigger/WoodWorkPhoto.html
+
+
+18). Where can I find cradle plans?
+
+	1.  Garrett Wade
+		$9.95 for plans for a "rocking cradle
+		item number 14A03.SA in their 1993 tools catalog
+
+	2.  The Woodworkers' Store
+		$4.95 for plans for a "four post cradle"
+		item number 40360 in their 1991-2 catalog
+
+	3.  The August 1990 issue of Fine Woodworking has an article about
+		making a cradle.
+
+	4. Bartley offers a cradle kit for $199.  If it's up to the quality
+		of their other kits, this should be good.
+
+	5. Woodsmith issue #48 - cradle with frame and panel ends with
+		arched-top panels.
+
+
+19). Where can I find futon plans?
+
+	1. TODAYS WOODWORKER JULY/AUG 1989, VOL 1 NO. 4
+		Queen size futon folded in half length wise.
+		Very attractive Futon sofa bed frame for queen size
+		futon (possibly Swedish modern). Unfolds to make bed,
+		breaks down for moving.  Elegant design with lots of
+		mortise and tenon joinery.
+
+	2. WOODWORKER'S JOURNAL NOV/DEC 1992 VOL 16 NO. 6
+		"Standard" futon frame for standard 2 fold futon.
+		Classic bi fold futon frame for queen size futon. The
+		plans claim to be (and appear to be) appropriate for
+		"even beginning woodworkers".
+
+	3. Fine Woodworking    July/August '89 NO. 77
+
+	4. Specialty Furniture Designs (800-892-4026)
+		Design "WSN-15" $14.95
+		Catalog $2.00
+		Attractive (modern) Sofa like futon frame fro singe fold
+		futon (futon folds once (the long way)).  Plans for both
+		twin (39 x 75) and full (54 x 75).
+		Plans are a large single sheet of blue print like drawings
+		with associated text, construction looks reasonable and
+		pictures of the finished project look good, but the plans
+		are a bit intimidating
+
+	5. Popular Woodworking SEP 1992, issue #68
+		"Knock-Down Couch"
+		Attractive Mission / Craftsman like design for a sturdy,
+		knock-down couch. The plans are not specifically for
+		futons but could be easily adapted to a single fold futon
+		(might not need to be adapted).
+
+	6. Today's Woodworker, Volume 26, Page 8
+		Contemporary Futon Sofa Bed 
+
+	7. The Family Handyman Volume 6/94, Page 72
+		Double Bed Futon Sofa
+
+	8. Wood February 1996, issue #86
+		Fantastic Futon
+
+
+20). Where can I get information about particle board?
+
+	The following was provided by Stavros Macrakis (macrakis@osf.org)
+	and was added to the FAQ with his permission.
+
+	*********************************************************************
+	For technical information on particleboard (PB), the National
+	Particleboard Association puts out some very nice free pamphlets,
+	which I summarize below.  Although they are basically addressed to
+	industrial users, they cover particleboard joint techniques quite well
+	for the rest of us.  Some of the facts about joints are very surprising.
+
+	I've tried to summarize the essential information below, but you can
+	also order copies from: NPA, 18928 Premiere Court, Gaithersburg,
+	MD 20879.
+
+	Specifier's Guide to PB and MDF
+
+  	Abstract
+		There are 15 ANSI grades of particleboard, with diverse
+  	properties.  For instance, face screwing strength varies from 90-450
+  	lb, stiffness from 80,000-500,000 psi.  Recommendations are given
+  	for matching grade to use.
+
+	Dowel Holding Strength of PB and MDF
+
+  	Abstract
+		Dowels joints are one of the cost common adhesive-based
+  	furniture assembly joints.  Dowelling is a simple, inexpensive, and
+  	reliable means of making butt and miter joints.  Joint strength is
+  	largely determined by the holding power of the dowels.  Use good
+  	quality dowels, diameter <= 0.5x the stock thickness.  The longer
+  	the dowel, the greater the strength.  Holes should be 0.005"
+  	oversized for edges, same as dowel on faces.  Use 60%+ solids
+  	content PVA adhesive, applying glue to both dowel and hole wall,
+  	with slight squeeze-out.
+
+	Adhesive-based Corner Joints for PB and MDF
+
+  	Abstract
+		The thicker the panel, the stronger the joint.  Simple butt
+  	joints' strength is limited by delamination; glue blocks or edge
+  	banding help.  Dowel joints are standard, and work well; they should be
+  	glued only at the dowels, NOT between edge and face (!).  Four dowels
+  	for 18" are standard.  Biscuits have equivalent strength, but are
+  	easier to align at assembly.  The strength of a well-made simple miter
+  	joint without reinforcement (dowels, etc.) is generally comparable to
+  	that of dowelled butt joints (!); dowels add little strength, but
+  	splines and biscuits do.  Rabbets 1/3-1/2 the depth of the panel make
+  	strong joints, but tend to split.  Dados are better, but less
+  	attractive.  Rabbet and dado butt corner joints (= dado and tenon =
+  	dado box corner) combine a dado on one panel and a rabbet on the other.
+  	Dowelled butt joints are stronger (!).  Dovetails are excellent, but
+  	require precise and time-consuming machining.  Molded polyurethane
+  	joints (plastic splines) are as strong as or stronger than dowel
+  	joints.
+
+	Metal Fasteners for PB and MDF
+
+  	Abstract
+		Screws, nails, and staples are widely used.  Screws are
+  	strongest.  The type of screw affects strength by only +-10% (!), but
+  	PB screws are less likely to break.  Screw diameter affects strength
+  	little, but screw length directly affects it.  Screw diameter should
+  	not exceed 20% of stock thickness.  High internal bond strength PB
+  	holds screws better.  Edge screws have half the strength of face
+  	screws.  Use full-length pilot holes; shorter holes do not increase
+  	strength.  Ideal tightening is 3/4 turn past flush on the face; 3/8
+  	past flush on the edge.  Applying glue in the hole can increase
+  	strength as much as 45%.
+		Staples are used for attaching fabric, etc., and to hold glued
+  	joints.
+		Nails split panels, so should be >3" from a corner, and >6"
+  	apart.  Ring shank nails hold better, plastic coated best.  Drive
+  	them at an angle.
+
+	Mechanically-based Corner joints for PB and MDF
+
+  	Abstract
+		Most bolt and cam joints are 20-50% weaker than dowelled joints.
+  	Screw joints are comparable.  Plastic corner block units can be much
+  	stronger in outward bending, but only comparably strong in inward.
+  	Even when they are equally strong, mechanically-based joints are often
+  	less rigid.  These systems are most useful for ready-to-assemble
+  	manufactured kit furniture.
+
+	Particle Shelf Systems (Builder's Bulletin #1)
+
+		(not seen)
+
+
+	All the above are free.  They also sell:
+
+	Particleboard from Start to Finish $12.50
+
+  	Abstract (theirs, I haven't seen this)
+		Ten chapters (120pp) of useful information for users of PB.
+  	Includes information on material handling and storage, sanding,
+  	machining and tooling, laminating, wet finishing, edge treatments,
+  	assembly and fastening, construction products, shelving and
+  	formaldehyde.
+
+	MDF from Start to Finish $7.50
+
+  	Similar abstract, 42 pp.
+	*********************************************************************
+
+21). What are some of the common woodworking terms/abbreviations?
+
+	HVLP - high volume/low pressure
+	RAS - radial arm saw
+	ROS - random orbital sander
+	S2S - smooth 2 sides - surfaced 2 sides
+	MDF - medium density fiberboard
+
+22). How do I finish a cutting board?
+
+	See the answer to question 13. 
+
+23). What is snipe and how do I eliminate it?
+	End snipe occurs when the wood looses contact with the infeed roller
+	and allows it to rise slightly from the bed of the planer. Snipe can
+	also happen on the beginning of the board as well. Snipe can be
+	minimized or eliminated by providing support along the full length
+	of the board on both the infeed and outfeed sides of the planer.
+	Proper tuning of the planer is also important in minimizing snipe.
+
+	Another way to minimize snipe is to do all of the planing before
+	cutting pieces to length. This way the only snipe loss in confined
+	to the end of 1 piece of wood.
+
+24). How is lumber graded?
+	
+	The following was provided by David R. Mount
+	(dmount@bigcat.missouri.edu) and added to the FAQ with his
+	permission.
+
+	*********************************************************************
+
+	The "Encyclopedia of Wood" from Sterling publishing is a good
+	source of this information, a synopsis of which I'll provide here.
+	 As I recall (don't have it in front of me) Bruce Hoadley's book
+	"Understanding Wood" has a comparable treatment.
+
+	I'll give a brief summary of dimensions and grading as follows:
+
+	Softwood Construction Lumber
+
+	Most softwoods (though certainly not all) that are made into finished
+	boards are intended to be construction lumber.  This material is
+	generally sold according to it's "nominal" dimension, typically 1 by
+	something or 2 by something.  Mininum thickness for planed, dry 1-by
+	material is 3/4"; dry means average moisture content of 12%, maximum
+	of 15%.  Minimum thickness for 2 by material (planed and dry) is
+	1-1/2".  For wet or "green" lumber (this includes formerly dry
+	material that has been allowed to take up water and has not re-dried)
+	minimum surfaced thickness is 25/32" and 1-9/16" for 1-by and 2-by
+	material, respectively.  For widths, the rules are the same for
+	both 1-by and 2-by material.  For widths up through 7 inches, the
+	minimum dry, planed width is 1/2" less than the nominal dimension.
+	 So, dry 1x6 and 2x6 material should both be 5-1/2" wide.  For
+	widths of 8" and above, the width should be 3/4" less than the
+	stated dimension (e.g., 1x10 should be 9-1/4" wide).
+
+	Grading softwoods is complex (though not as bad as hardwoods) and it
+	depends on the use (boards versus structural lumber), and the type
+	and distribution of defects (tight knots, loose knots, spike knots,
+	wane, shake, etc.).  There are several different grading authorities,
+	but the board grades most common in the U.S. are (in decreasing order
+	of "quality") finish or select, #1 (common), #2 (common), #3 (common),
+	and #4 (common).  Structural lumber generally uses different
+	terminology including such things as #1, #2, and #3 structural,
+	superior, stud, utility, and several others.  Ask your lumber dealer
+	to explain the system by which their lumber is graded; there is a
+	lot of variation from dealer to dealer.  The "Encyclopedia of Wood"
+	has pictures of the board grades; Hoadley's book may also, I
+	don't recall.
+
+	Hardwoods
+
+	Standard thicknesses for hardwood lumber are as follows (in inches):
+
+	Nominal (green)       Dressed (dry and planed)
+	  Thickness                  Thickness
+	-------------------------------------------------
+     	2/4                        5/16
+     	4/4                       13/16
+     	5/4                      1-1/16
+     	6/4                      1-5/16
+     	8/4                      1-3/4
+
+	Notice that 2/4 lumber is officially listed as only 5/16" planed.  In
+	practice, hardwood stores I've been to generally sell material they
+	call "2/4" that is actually surfaced to either 1/2" or 7/16".  I
+	don't know why.  In my experience, the thicker sizes are typically
+	sold as I've listed above.
+
+	Hardwoods are generally sold as random widths, unlike construction
+	lumber that has width controlled as tightly as thickness.  In
+	general, according to the Encyclopedia of Wood, dry hardwood is
+	sold as the next highest inch down to 3/8" shy of the nominal
+	dimension for less than 8 inches and 1/2" shy for greater than
+	8 inches.  In other words, a 6" wide board may be as narrow as
+	5-5/8", a 10" board as narrow as 9-1/2".  In practice, hardwood
+	dealers vary in how they figure width into the board foot
+	calculation; some go to the nearest inch, some to the nearest half
+	inch, some to the exact dimension.  Don't be shy to ask a dealer
+	how he/she makes the calculation; you have a right to know.
+
+	Grading hardwoods is *really* complex.  Grades are determined by
+	number, width, and length of clear (free of knots and other defects)
+	cuttings that could be obtained from the board, which is in turn
+	determined by the number and location of defects, primarily knots.
+	 The top three grades are "firsts", "seconds", and "select(s)". 
+	Hardwood dealers typically sell these grades together as "firsts
+	and seconds" (known as FAS) or "select and better" (SAB).  In
+	short, if all the defects were cut out of these boards, they
+	should yield between 83.3% and 100% of pieces with at least one
+	clear face.  The specific grading rules are much more complex,
+	but this is the general idea.  Note that there has been a movement to
+	relax the requirements somewhat for black walnut.  I also believe that
+	many dealers sell wood as "FAS" that actually contains some select
+	material; it's not a big deal usually, unless you need big wide long
+	clear boards and are buying sight unseen.
+
+	After these top three grades follows #1 common and #2 common.  These
+	grades allow a lower percentage of the board to yield clear cuttings
+	(BTW, "cuttings" means smaller boards) and allows the cuttings to be
+	narrower and shorter than in the better grades.  #1 common should
+	yield 66.6% to 100% clear cuttings (depending on the board size)
+	while #2 common will yield 50% to 66.6%.
+
+	A couple notes about #1 and #2 common boards.  First, they are often
+	not displayed right out front by a hardwood dealer; if you are
+	interested in lower grades, ask about them.  #1 and #2 boards can
+	sometimes be a better buy; they are generally 20 to 70% cheaper
+	than FAS boards so the cost per square inch of clear lumber may be
+	lower if obtained from lower grade boards.  Of course, this requires
+	that you can use smaller pieces; you also have to figure in the cost
+	of your time to cut around the knots.  On the other hand, in more
+	casual pieces I often leave some knots in the finished piece if
+	they won't cause structural problems.  Some of the most beautiful
+	figure occurs near knots.  Each person will weigh these variables
+	differently.
+
+	*********************************************************************
