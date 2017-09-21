@@ -1,4 +1,5 @@
-@namespace president "http://www.du.edu/~mschwart/xml/birthday";
+@namespace birthday "http://www.du.edu/~mschwart/xml/birthday";
+@namespace birthday\:"http://www.du.edu/~mschwart/xml/birthday";
 president {
     display: block;
     width: 600px;
