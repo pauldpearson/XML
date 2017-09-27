@@ -1,29 +1,20 @@
 @namespace birthday "http://www.du.edu/~mschwart/xml/birthday";
-@namespace birthday\:"http://www.du.edu/~mschwart/xml/birthday";
-president {
-    display: block;
-    width: 600px;
-    font-size: 10pt;
-    padding: 10px;
-    margin: 4px;
-    border-width: 1px;
-    border-style: groove;
-    border-color: black;
-    background: lightblue;
-}
 
-name {
-    display: block;
-    font-family: roman, 'times new roman', times, serif;
-    font-size: 16pt;
-    font-weight: bold;
-}
+/*Paul Pearson*/
+/*birthday.css*/
 
-birthday {
+birthday|date {
     display: block;
     font-family: roman, 'times new roman', times, serif;
     font-size: 12pt;
+    font-weight: bold;
     color: blue;
-
 }
 
+birthday\:date {
+    display: block;
+    font-family: roman, 'times new roman', times, serif;
+    font-size: 12pt;
+    font-weight: bold;
+    color: blue;
+}

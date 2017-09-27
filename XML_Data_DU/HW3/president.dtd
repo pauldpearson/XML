@@ -1,0 +1,14 @@
+<!--Paul Pearson-->
+        <!--president.dtd-->
+
+        <!DOCTYPE presidents [
+        <!ELEMENT presidents (president)*>
+        <!ELEMENT president (number|name|took_office|left_office|party|term)*>
+        <!ELEMENT number (#PCDATA)>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT took_office (date) (#PCDATA)>
+        <!ELEMENT left_office (date) (#PCDATA)>
+        <!ELEMENT party (Republican, Democrat, Federalist) (#PCDATA)>
+        <!ELEMENT term (number|vice_president)*>
+        <!ELEMENT vice_president (#PCDATA)>
+        ]>
