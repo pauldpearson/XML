@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE presidents SYSTEM "president.dtd">
-<!-- Paul Pearson -->
-<!-- USPresidents.xml -->
+
+<!--Paul Pearson-->
+<!--USPresidents.xml-->
 
 <presidents>
     <president>
