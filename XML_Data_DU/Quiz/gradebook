@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gradebook [
+        <!ELEMENT gradebook (course,term,grades)>
+        <!ELEMENT course (#PCDATA)>
+        <!ELEMENT term (#PCDATA)>
+        <!ELEMENT grades (grade+)>
+        <!ELEMENT grade (event,student,score)>
+        <!ELEMENT event (#PCDATA)>
+        <!ELEMENT student (#PCDATA)>
+        <!ELEMENT score (#PCDATA)>
+        <!ATTLIST event date CDATA #IMPLIED>
+        ]>
+<gradebook>
+    <course>ICT4540</course>
+    <term>Fall, 2014</term>
+    <grades>
+        <grade>
+            <event date="2014-09-08">Attendance</event>
+            <student>J. Q. Doe</student>
+            <score>10</score>
+        </grade>
+        <grade>
+            <event>Attendance</event>
+            <student>M. A. Roe</student>
+            <score>10</score>
+        </grade>
+        <grade>
+            <event date="2014-09-08">Attendance</event>
+            <student>Q. Z. Coe</student>
+            <score>10</score>
+        </grade>
+    </grades>
+</gradebook>

@@ -7,19 +7,19 @@
     <president>
         <number>1</number>
         <name>George Washington</name>
-        <took_office> April 30, 1789</took_office>
+        <took_office>April 30, 1789</took_office>
         <left_office>March 4, 1797</left_office>
         <party>no party</party>
         <term>
             <number>1</number>
-            <vice_president>John Adams</vice_president> 
+            <vice_president>John Adams</vice_president>
         </term>
         <term>
             <number>2</number>
             <vice_president>John Adams</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>2</number>
         <name>John Adams</name>
@@ -31,7 +31,7 @@
             <vice_president>Thomas Jefferson</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>3</number>
         <name>Thomas Jefferson</name>
@@ -47,7 +47,7 @@
             <vice_president>George Clinton</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>4</number>
         <name>James Madison</name>
@@ -79,7 +79,7 @@
             <vice_president>Daniel D. Tompkins</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>6</number>
         <name>John Quincy Adams</name>
@@ -91,7 +91,7 @@
             <vice_president>John C. Calhoun</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>7</number>
         <name>Andrew Jackson</name>
@@ -104,10 +104,10 @@
         </term>
         <term>
             <number>12</number>
-        <vice_president>Martin Van Buren</vice_president>
+            <vice_president>Martin Van Buren</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>8</number>
         <name>Martin Van Buren</name>
@@ -119,7 +119,7 @@
             <vice_president>Richard Mentor Johnson</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>9</number>
         <name>William Henry Harrison</name>
@@ -130,7 +130,7 @@
             <vice_president>John Tyler</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>10</number>
         <name>John Tyler</name>
@@ -142,7 +142,7 @@
             <vice_president>None</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>11</number>
         <name>James K. Polk</name>
@@ -154,7 +154,7 @@
             <vice_president>George M. Dallas</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>12</number>
         <name>Zachary Taylor</name>
@@ -166,7 +166,7 @@
             <vice_president>Millard Fillmore</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>13</number>
         <name>Millard Fillmore</name>
@@ -178,7 +178,7 @@
             <vice_president>None</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>14</number>
         <name>Franklin Pierce</name>
@@ -190,7 +190,7 @@
             <vice_president>William R. King</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>15</number>
         <name>James Buchanan</name>
@@ -202,7 +202,7 @@
             <vice_president>John C. Breckinridge</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>16</number>
         <name>Abraham Lincoln</name>
@@ -218,7 +218,7 @@
             <vice_president>Andrew Johnson</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>17</number>
         <name>Andrew Johnson</name>
@@ -230,7 +230,7 @@
             <vice_president>None</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>18</number>
         <name>Ulysses S. Grant</name>
@@ -306,7 +306,7 @@
             <vice_president>Levi P. Morton</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>24</number>
         <name>Grover Cleveland</name>
@@ -334,7 +334,7 @@
             <vice_president>Theodore Roosevelt</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>26</number>
         <name>Theodore Roosevelt</name>
@@ -362,7 +362,7 @@
             <vice_president>James S. Sherman</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>28</number>
         <name>Woodrow Wilson</name>
@@ -374,7 +374,7 @@
             <vice_president>Thomas R. Marshall</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>29</number>
         <name>Warren G. Harding</name>
@@ -386,7 +386,7 @@
             <vice_president>Calvin Coolidge</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>30</number>
         <name>Calvin Coolidge</name>
@@ -398,7 +398,7 @@
             <vice_president>Charles G. Dawes</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>31</number>
         <name>Herbert Hoover</name>
@@ -410,7 +410,7 @@
             <vice_president>Charles Curtis</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>32</number>
         <name>Franklin D. Roosevelt</name>
@@ -434,7 +434,7 @@
             <vice_president>Harry S. Truman</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>33</number>
         <name>Harry S. Truman</name>
@@ -450,7 +450,7 @@
             <vice_president>Alben W. Barkley</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>34</number>
         <name>Dwight D. Eisenhower</name>
@@ -466,7 +466,7 @@
             <vice_president>Richard Nixon</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>35</number>
         <name>John F. Kennedy</name>
@@ -478,7 +478,7 @@
             <vice_president>Lyndon B. Johnson</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>36</number>
         <name>Lyndon B. Johnson</name>
@@ -494,7 +494,7 @@
             <vice_president>Hubert Humphrey</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>37</number>
         <name>Richard Nixon</name>
@@ -510,7 +510,7 @@
             <vice_president>Gerald Ford</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>38</number>
         <name>Gerald Ford</name>
@@ -522,7 +522,7 @@
             <vice_president>Nelson Rockefeller</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>39</number>
         <name>Jimmy Carter</name>
@@ -534,7 +534,7 @@
             <vice_president>Walter Mondale</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>40</number>
         <name>Ronald Reagan</name>
@@ -550,7 +550,7 @@
             <vice_president>George H. W. Bush</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>41</number>
         <name>George H. W. Bush</name>
@@ -562,7 +562,7 @@
             <vice_president>Dan Quayle</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>42</number>
         <name>Bill Clinton</name>
@@ -578,7 +578,7 @@
             <vice_president>Al Gore</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>43</number>
         <name>George W. Bush</name>
@@ -594,7 +594,7 @@
             <vice_president>Dick Cheney</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>44</number>
         <name>Barack Obama</name>
@@ -610,7 +610,7 @@
             <vice_president>Joe Biden</vice_president>
         </term>
     </president>
-    
+
     <president>
         <number>45</number>
         <name>Donald Trump</name>
