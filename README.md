@@ -1,2 +1,2 @@
 # XML
-Class project for XML &amp; Data in Application Development
+Class project for XML Data in Application Development
