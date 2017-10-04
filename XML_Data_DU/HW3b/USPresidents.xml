@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<!--Paul Pearson-->
-<!--USPresidents.xml-->
-
-<presidents>
+<!-- Information about US Presidents.
+    Stylesheet must be present for this directive to be useful.
+-->
+<?xml-stylesheet type="text/css" href="president.css" ?>
+<presidents date="2017-01-21">
     <president>
         <number>1</number>
         <name>George Washington</name>
