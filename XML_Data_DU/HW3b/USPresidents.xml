@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="president.css" ?>
-<!DOCTYPE presidents SYSTEM "USPresidents.xsd">
+
 <!-- Paul Pearson -->
 <!-- USPresidents.xml -->
 
-<presidents>
+<presidents
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="USPresidents.xsd">
     <president>
         <number>1</number>
         <name>George Washington</name>
