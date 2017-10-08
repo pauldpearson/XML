@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="president.css" ?>
 <!DOCTYPE presidents SYSTEM "president.dtd">
-
 <!--Paul Pearson-->
 <!--USPresidents.xml-->
-
 <presidents>
     <president>
         <number>1</number>
@@ -127,7 +125,7 @@
         <name>William Henry Harrison</name>
         <took_office>March 4, 1841</took_office>
         <left_office>April 4, 1841</left_office>
-        <party></party>
+        <party>""</party>
         <term>
             <number>14</number>
             <vice_president>John Tyler</vice_president>
