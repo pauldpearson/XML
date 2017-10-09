@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="wine.css" ?>
+<?xml-stylesheet type="text/xsl" href="wine.xsl" ?>
+
+<wine>
+    <name>{1,1}</name>
+    <additionalname>{0,1}</additionalname>
+    <variety>{0,1}</variety>
+    <vintage>{1,1}</vintage>
+    <winetype>{1,1}</winetype>
+    <origin>{1,1}</origin>
+    <category>{0,1}</category>
+    <producer>{0,1}</producer>
+    <reseller>{0,1}</reseller>
+    <foodaccompaniments>{0,1}</foodaccompaniments>
+    <customextension>{0,unbounded}</customextension>
+    <notes>{0,1}</notes>
+    <generator>{1,1}</generator>
+</wine>
+

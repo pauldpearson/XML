@@ -1,89 +1,50 @@
-@namespace president "http://www.du.edu/~mschwart/xml/president";
 
 /*Paul Pearson*/
-/*president.css*/
-
-president|president {
+/*president_table.css*/
+president {
     display: block;
     width: 600px;
     font-size: 10pt;
     padding: 10px;
     margin: 4px;
-    border-width: 1px;
+    border-width: 3px;
     border-style: groove;
-    border-color: black;
-    background: lightblue;
+    border-color: blue;
+    background: ghostwhite;
 }
 
-president|name {
+name {
     display: block;
     font-family: roman, 'times new roman', times, serif;
     font-size: 16pt;
     font-weight: bold;
+    color: black;
 }
 
-president|took_office, president|left_office {
+took_office, left_office {
     display: list-item;
     margin-left: 16px;
+    color: purple;
 }
 
-president|party {
+party {
     display: block;
     font-family: roman, 'times new roman', times, serif;
     font-size: 12pt;
     font-style: italic;
+    color: green;
 }
 
-president|vice_president {
+vice_president {
     display: block;
     font-family: roman, 'times new roman', times, serif;
     font-weight: bold;
     font-size: 12pt;
+    color: darkorange;
 }
 
-president|number {
+number {
     display: none;
+    color: darkblue;
 }
 
-
-president\:president {
-    display: block;
-    width: 600px;
-    font-size: 10pt;
-    padding: 10px;
-    margin: 4px;
-    border-width: 1px;
-    border-style: groove;
-    border-color: black;
-    background: lightblue;
-}
-
-president\:name {
-    display: block;
-    font-family: roman, 'times new roman', times, serif;
-    font-size: 16pt;
-    font-weight: bold;
-}
-
-president\:took_office, president\:left_office {
-    display: list-item;
-    margin-left: 16px;
-}
-
-president\:party {
-    display: block;
-    font-family: roman, 'times new roman', times, serif;
-    font-size: 12pt;
-    font-style: italic;
-}
-
-president\:vice_president {
-    display: block;
-    font-family: roman, 'times new roman', times, serif;
-    font-weight: bold;
-    font-size: 12pt;
-}
-
-president\:number {
-    display: none;
-}
