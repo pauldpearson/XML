@@ -4,6 +4,11 @@
     <xs:element name="wine" type="wineType"/>
     <xs:complexType name="wineType">
         <xs:sequence>
+            <xs:element type="winenameType" name="winename" maxOccurs="unbounded" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+    <xs:complexType name="winenameType">
+        <xs:sequence>
             <xs:element type="xs:string" name="name"/>
             <xs:element type="xs:string" name="additionalname"/>
             <xs:element type="xs:string" name="variety"/>
@@ -20,77 +25,3 @@
         </xs:sequence>
     </xs:complexType>
 </xs:schema>
-
-<xs:complexType name="wineDetail">
-<xs:annotation>
-    <xs:documentation>Contains all the details about a particular wine</xs:documentation>
-</xs:annotation>
-<xs:sequence>
-    <xs:element name="name" type="xs:string">
-        <xs:annotation>
-            <xs:documentation>The name of the wine</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="additionalname" type="xs:string" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>Optional/additional name information</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="variety" type="xs:string" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>Used for wines which state the grape variety on their label, e.g. "Penfolds Grange Shiraz"
-                you would enter here "Shiraz". For more detailed definition of varities contained in the wine please see
-                "cuvee" under vintage
-            </xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="vintage" type="vintageDetail">
-        <xs:annotation>
-            <xs:documentation>Vintage detail, bottle size, cuvee, alcohol, label image etc</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="winetype" type="winetypeDetail">
-        <xs:annotation>
-            <xs:documentation>Type of wine, e.g. red, white etc, and optional winefamily</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="origin" type="originDetail">
-        <xs:annotation>
-            <xs:documentation>Origin of the wine including country, state, region and vineyard</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="category" type="categoryDetail" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>The category of the wine e.g. AOC, DOC etc</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="producer" type="producerDetail" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>The producer of the wine, e.g. a vineyard, coop etc</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="reseller" type="resellerDetail" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>The reseller of the wine</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="foodaccompaniments" type="foodAccompaniments" minOccurs="0">
-        <xs:annotation>
-            <xs:documentation>What food goes well with this wine, see also winefamily under winetype.</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="customextension" type="customExtension" minOccurs="0" maxOccurs="unbounded">
-        <xs:annotation>
-            <xs:documentation>Should only be used temporarily, post to the custom extension forum on www.vinoxml.org and
-                explain your particular requirement!
-            </xs:documentation>
-        </xs:annotation>
-    </xs:element>
-    <xs:element name="notes" type="notes" minOccurs="0"/>
-    <xs:element name="generator" type="generatorDetail">
-        <xs:annotation>
-            <xs:documentation>Information on how/who generated the XML instance.</xs:documentation>
-        </xs:annotation>
-    </xs:element>
-</xs:sequence>
-</xs:complexType>
