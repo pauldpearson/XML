@@ -9,4 +9,3 @@
 <!--president_table.css stylesheet; the body element, and its h1-->
 <!--element. The title and h1 element content should be Table-->
 <!--of US Presidents-->
-

@@ -87,6 +87,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+.project
 
 # External tool builders
 .externalToolBuilders/
@@ -136,5 +137,3 @@ gen
 .idea/
 XML.iml
 XML_Data_DU/.idea/
-XML_Data_DU/HW2/Combinedpresidents.xml
-XML_Data_DU/HW2/president.css
