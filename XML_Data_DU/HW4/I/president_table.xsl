@@ -7,11 +7,11 @@
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
     <xsl:output method="html" version="4.0"/>
-    <xsl:template match="presidents/president">
+    <xsl:template match="/">
+        <xsl:apply-templates select="presidents/president"/>
         <html>
             <body>
                 <h1>Table of US Presidents</h1>
-                <xsl:apply-templates select="presidents/president"/>
             </body>
         </html>
     </xsl:template>

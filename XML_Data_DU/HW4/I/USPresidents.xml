@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet type="text/xsl" href="president_table.css" ?>
-<!--<?xml-stylesheet type="text/css" href="president.css" ?>-->
-<!--<?xml-stylesheet type="text/css" href="birthday.css" ?>-->
+<?xml-stylesheet type="text/xsl" href="president_table.xsl" ?>
+<?xml-stylesheet type="text/css" href="president.css" ?>
 
 <!--Paul Pearson -->
 <!--Combinedpresidents.xml -->
