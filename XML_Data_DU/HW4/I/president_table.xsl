@@ -12,6 +12,22 @@
         <html>
             <body>
                 <h1>Table of US Presidents</h1>
+                <table border="1">
+                    <tr bgcolor="#9acd32">
+                        <th style="text-align:left">Name</th>
+                        <th style="text-align:left">date</th>
+                        <xsl:for-each select="president/president">
+                            <tr>
+                                <td>
+                                    <xsl:value-of select="Name"/>
+                                </td>
+                                <td>
+                                    <xsl:value-of select="date"/>
+                                </td>
+                            </tr>
+                        </xsl:for-each>
+                    </tr>
+                </table>
             </body>
         </html>
     </xsl:template>
