@@ -7,7 +7,7 @@
 
 <!-- Information about US Presidents. Stylesheet must be present for this
 	directive to be useful. -->
-<president>
+<presidents>
     <president>
         <number>1</number>
         <name>George Washington</name>
@@ -152,6 +152,7 @@
         </date>
         <took_office>March 4, 1841</took_office>
         <left_office>April 4, 1841</left_office>
+        <party>no party</party>
         <term>
             <number>14</number>
             <vice_president>John Tyler</vice_president>
@@ -757,4 +758,4 @@
             <vice_president>Mike Pence</vice_president>
         </term>
     </president>
-</president>
+</presidents>

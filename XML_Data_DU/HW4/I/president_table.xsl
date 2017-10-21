@@ -6,7 +6,7 @@
 <xsl:stylesheet version="1.0"
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html" version="4.0"/>
-    <xsl:template match="/">
+    <xsl:template match="presidents">
         <html>
             <body>
                 <h1>Table of US Presidents</h1>
@@ -33,13 +33,6 @@
                                 </td>
                                 <td>
                                     <xsl:value-of select="party"/>
-                                </td>
-                            </tr>
-                        </xsl:for-each>
-                        <xsl:for-each select="//vice_president">
-                            <tr>
-                                <td>
-                                    <xsl:value-of select="vice_president"/>
                                 </td>
                             </tr>
                         </xsl:for-each>
