@@ -11,10 +11,10 @@ president {
 }
 
 name {
-	display: block;
-	font-family: roman, 'times new roman', times, serif;
-	font-size: 16pt;
-	font-weight: bold;
+	display: flex;
+	font-family: Arial;
+	font-size: 24pt;
+	font-weight: normal;
 }
 
 took_office, left_office {
