@@ -18,6 +18,7 @@
                         <th>Birthday</th>
                         <th>Took Office</th>
                         <th>Left Office</th>
+
                         <th>Party</th>
                     </tr>
                     <xsl:apply-templates select="presidents"/>
