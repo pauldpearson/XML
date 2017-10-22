@@ -7,8 +7,8 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>Table of US Presidents</title>
                 <link rel="stylesheet" type="text/css" href="president_table.css"/>
+                <title>Table of US Presidents</title>
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
@@ -20,7 +20,7 @@
                         <th>Left Office</th>
                         <th>Party</th>
                     </tr>
-                    <xsl:apply-templates select="presidents/president"/>
+                    <xsl:apply-templates select="presidents"/>
                 </table>
             </body>
         </html>
