@@ -1,3 +1,6 @@
+/*Paul Pearson*/
+/*president_21c.css*/
+
 president {
 	display: block;
 	width: 600px;
@@ -42,4 +45,8 @@ number {
 
 date {
 	color: red;
+}
+
+picture {
+	border-image: 100%;
 }

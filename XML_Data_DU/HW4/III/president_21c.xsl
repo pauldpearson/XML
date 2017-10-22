@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!--Paul Pearson-->
-<!--president_table.xsl-->
+<!--president_21c.xsl-->
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html"/>
@@ -19,10 +20,9 @@
                         <th>Took Office</th>
                         <th>Left Office</th>
                         <th>Party</th>
+                        <th>Picture</th>
                     </tr>
-                    <xsl:apply-templates select="presidents/president">
-                        <xsl:sort select="party"/>
-                    </xsl:apply-templates>
+                    <xsl:apply-templates select="presidents/president"/>
                 </table>
             </body>
         </html>
@@ -49,3 +49,5 @@
     </xsl:template>
 
 </xsl:stylesheet>
+
+
