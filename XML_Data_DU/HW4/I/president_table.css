@@ -39,3 +39,7 @@ vice_president {
 number {
 	display: none;
 }
+
+date {
+	color: red;
+}

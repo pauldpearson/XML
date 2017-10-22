@@ -11,7 +11,9 @@
     <president>
         <number>1</number>
         <name>George Washington</name>
-        <date>2/22/1732</date>
+        <date>
+            2/22/1732
+        </date>
         <took_office>April 30, 1789</took_office>
         <left_office>March 4, 1797</left_office>
         <party>no party</party>
