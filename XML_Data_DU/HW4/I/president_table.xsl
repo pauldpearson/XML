@@ -12,8 +12,8 @@
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
-                <table border="2">
-                    <tr bgcolor="orange">
+                <table>
+                    <tr>
                         <th>Name</th>
                         <th>Birthday</th>
                         <th>Took Office</th>

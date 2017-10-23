@@ -6,15 +6,16 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html"/>
     <xsl:template match="/">
+        <xsl:value-of select="//president[number()>41]/number"/>
         <html>
             <head>
-                <link rel="stylesheet" type="text/css" href="president_table.css"/>
+                <link rel="stylesheet" type="text/css" href="president_21c.css"/>
                 <title>Table of US Presidents</title>
             </head>
             <body>
                 <h1>Table of US Presidents</h1>
-                <table border="2">
-                    <tr bgcolor="orange">
+                <table>
+                    <tr>
                         <th>Name</th>
                         <th>Birthday</th>
                         <th>Took Office</th>
@@ -45,9 +46,22 @@
             <td>
                 <xsl:value-of select="party"/>
             </td>
+            <td>
+                <xsl:if test="(number=42)">
+                    <img src="42.jpg"/>
+                </xsl:if>
+                <xsl:if test="(number=43)">
+                    <img src="43.jpg"/>
+                </xsl:if>
+                <xsl:if test="(number=44)">
+                    <img src="44.jpg"/>
+                </xsl:if>
+                <xsl:if test="(number=45)">
+                    <img src="45.jpg"/>
+                </xsl:if>
+            </td>
         </tr>
     </xsl:template>
-
 </xsl:stylesheet>
 
 

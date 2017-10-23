@@ -5,8 +5,6 @@
 <!--Paul Pearson -->
 <!--USPresidents.xml -->
 
-<!-- Information about US Presidents. Stylesheet must be present for this
-	directive to be useful. -->
 <presidents>
     <president>
         <number>1</number>

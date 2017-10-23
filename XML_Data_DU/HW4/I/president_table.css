@@ -1,45 +1,25 @@
-president {
-	display: block;
-	width: 600px;
-	font-size: 10pt;
-	padding: 10px;
-	margin: 4px;
-	border-width: 1px;
-	border-style: groove;
-	border-color: black;
-	background: lightblue;
-}
+/*Paul Pearson*/
+/*president_table.css*/
 
-name {
-	display: flex;
+
+th {
 	font-family: Arial;
-	font-size: 24pt;
-	font-weight: normal;
+	color: purple;
 }
 
-took_office, left_office {
-	display: list-item;
-	margin-left: 16px;
+table {
+	border: 5px solid orange;
 }
 
-party {
-	display: block;
-	font-family: roman, 'times new roman', times, serif;
-	font-size: 12pt;
-	font-style: italic;
+tr {
+	font-family: Arial;
+	color: orange;
+	text-align: center;
 }
 
-vice_president {
-	display: block;
-	font-family: roman, 'times new roman', times, serif;
-	font-weight: bold;
-	font-size: 12pt;
+td {
+	font-family: Arial;
+	color: blue;
+	border: double;
 }
 
-number {
-	display: none;
-}
-
-date {
-	color: red;
-}
