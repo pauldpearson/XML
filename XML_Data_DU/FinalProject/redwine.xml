@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<?xml-stylesheet type="text/xsl" href="vinoXML.xsl" ?>
+<?xml-stylesheet type="text/css" href="vinoXML.css" ?>
 <wine>
     <winedetail>
         <name>Kenwood Jack London Cabernet Sauvignon</name>
@@ -8,8 +9,12 @@
         <vintage>2013</vintage>
         <wineregion>Sonoma County</wineregion>
         <origin>USA</origin>
-        <notes>Offers minty bay leaf aromas and flavors, with dry, grippy tannins and a mix of gravelly dark
-            berry notes, ending clean and cedary. Drink now. 25,000 cases made.
+        <notes>
+            Since our first vintage from the Jack London Ranch in 1976 it has proven itself as an outstanding producer
+            of exceptional Cabernet Sauvignon. Located midway up the Eastern flanks of Sonoma Mountain it has a long
+            mild growing season that creates fruit with complexity and balance. The influence of the vineyard's red
+            volcanic soil and the fruity characteristics of the grapes combine to produce an outstanding, very
+            distinctive Cabernet Sauvignon.
         </notes>
     </winedetail>
     <winedetail>
