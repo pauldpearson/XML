@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wine xmlns="http://www.vinoxml.org/XMLschema">
+    <name>Goldwater Eslin</name>
+    <additionalname>Merlot</additionalname>
+    <variety/>
+    <vintage>
+        <year>2002</year>
+        <bottle>
+            <size>750ml</size>
+            <price>
+                <pricetype>listPrice</pricetype>
+                <currencycode>EUR</currencycode>
+                <pricevalue>25.00</pricevalue>
+            </price>
+            <apogee>
+                <firstyear>2005</firstyear>
+                <bestyear>2005</bestyear>
+                <pastyear>2012</pastyear>
+            </apogee>
+            <sealtype>cork</sealtype>
+            <tasting>
+                <tastedby>Wine Spectator</tastedby>
+                <tastedon>2000-11-15</tastedon>
+                <points>90.0</points>
+                <notes>Supple and generous, a remarkably graceful wine that frames it's berry, spice, peppermint and chocolate flavours with elegance, letting the flavours ring true on the lengthy finish. Tannins are fine and beautifully integrated. Drink now through 2009.</notes>
+            </tasting>
+            <tasting>
+                <tastedby>Winemaker</tastedby>
+                <tastedon>2006-04-22</tastedon>
+                <points>0.0</points>
+                <notes>Vinification
+                    Hand picked, crushed, destemmed and fermented in stainless steel after a short cold maceration, then aged in seasoned French oak for 16 months.
+
+                    Appearance
+                    Bright crimson/ruby
+
+                    Bouquet
+                    Intensily rich with floral, chocolate box and saddle tones showing through.
+
+                    Palate
+                    Fine and smooth even at a young age with fine ripe tannins.  Broad in the mouth with excellent lenght, this is a very elegant wine.  Consistent with prior vintages, the Esslin is supple and generous, with enough concentration and tanning structure to age gracefully for a number of years.
+
+                    Serving temperature
+                    At around 18Â°
+
+                    Food Accompaniments
+                    Will handsomely accompany most foods but best with red meat dishes and pasta.</notes>
+            </tasting>
+            <tastingextended>
+                <tastingsystem>100 - Matzner, Zapfen ab</tastingsystem>
+                <description>Just us</description>
+                <tastedon>2006-01-20</tastedon>
+                <firstimpression>
+                    <points>18.0</points>
+                </firstimpression>
+                <sight>
+                    <points>5.0</points>
+                </sight>
+                <smell>
+                    <points>23.0</points>
+                </smell>
+                <taste>
+                    <points>28.0</points>
+                </taste>
+                <finish>
+                    <points>18.0</points>
+                </finish>
+                <overall>
+                    <points>0.0</points>
+                </overall>
+                <adjustmentpoints>0.0</adjustmentpoints>
+            </tastingextended>
+            <refcode/>
+        </bottle>
+        <alcohol>12.5</alcohol>
+        <sugar>0.0</sugar>
+        <acidity>5.6</acidity>
+        <servingtemperature>18.0</servingtemperature>
+        <bottlelabel>
+            <imageembedded>
+                <imagefilename>GoldWaterEsslin2002.jpg</imagefilename>
+                <imageformat>JPEG</imageformat>
+                <imagemode>RGB</imagemode>
+                <imagesize>(256, 920)</imagesize>
+                <imagedata></imagedata>
+            </imageembedded>
+        </bottlelabel>
+        <notes>A cool wet spring gave way to a bafulous warm dry summer, allowing us to pick beautiful clean grapes at exactly optimum ripeness, producing a very elegant, ripe and concentrated wine.</notes>
+    </vintage>
+    <winetype>
+        <winetype>Red wine</winetype>
+    </winetype>
+    <origin>
+        <country>
+            <countrycode>NZL</countrycode>
+            <name>New Zealand</name>
+        </country>
+        <geographicregion>North Island</geographicregion>
+        <wineregion>Waiheke Island</wineregion>
+    </origin>
+    <producer>
+        <name>Goldwater Estate</name>
+        <address>
+            <street1/>
+            <street2/>
+            <street3/>
+            <postalcode/>
+            <city>Waihiki Island</city>
+            <state/>
+            <country>
+                <countrycode>NZL</countrycode>
+                <name>New Zealand</name>
+            </country>
+        </address>
+        <communication>
+            <telephone/>
+            <faxsimile/>
+            <email/>
+            <website/>
+        </communication>
+        <contact>
+            <name/>
+            <communication>
+                <telephone/>
+                <faxsimile/>
+                <email/>
+            </communication>
+        </contact>
+        <refcode>None</refcode>
+    </producer>
+    <notes>This wine is made from grapes grown in the Goldwater Estate Waiheke Island vineyard and is from speically selected clones of Merlot privatly imported from France.  The vines are all grafted on to low vigour high quality rootstocks and trellised to the VSP system.  All the newer plantings are close spaced with low fruiting wires and are cropped very lightly.</notes>
+    <generator>
+        <genname>The Wine Cellar Book - version 2.0.28.1</genname>
+        <email>support@thewinecellarbook.com</email>
+        <gentype>Cellar Book Software</gentype>
+        <gendatetime>2006-04-22T15:30:00</gendatetime>
+        <xmlschema>vinoxml.xsd</xmlschema>
+        <xmlschemaversion>1.0</xmlschemaversion>
+    </generator>
+</wine>

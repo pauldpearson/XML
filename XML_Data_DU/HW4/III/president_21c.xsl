@@ -6,7 +6,7 @@
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
     <xsl:output method="html"/>
     <xsl:template match="/">
-        <xsl:value-of select="//president[number()>41]/number"/>
+
         <html>
             <head>
                 <link rel="stylesheet" type="text/css" href="president_21c.css"/>
@@ -23,7 +23,8 @@
                         <th>Party</th>
                         <th>Picture</th>
                     </tr>
-                    <xsl:apply-templates select="presidents/president"/>
+                    <!--<xsl:apply-templates select="presidents/president[number(substring-after(took_office, ', ')) >= 2000]"/>-->
+                    <xsl:apply-templates select="presidents/president[number > 41]"/>
                 </table>
             </body>
         </html>
