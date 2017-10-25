@@ -15,19 +15,45 @@
                     <tr>
                         <th class="name">Name</th>
                         <th class="category">Category</th>
+                        <th class="variety">Variety</th>
+                        <th class="vintage">Vintage</th>
+                        <th class="wineregion">Wine Region</th>
+                        <th class="origin">Origin</th>
+                        <th class="notes">Notes</th>
+                        <th class="photo">Photo</th>
                     </tr>
+                    <xsl:apply-templates select="wine/winedetail"/>
                 </table>
             </body>
         </html>
     </xsl:template>
 
-    <xsl:template match="winedetail/name">
+    <xsl:template match="winedetail">
         <tr>
             <td class="name">
                 <xsl:value-of select="name"/>
             </td>
-
-            <td class="photo" src="{name}.jbp" alt="{name}"/>
+            <td class="category">
+                <xsl:value-of select="category"/>
+            </td>
+            <td class="variety">
+                <xsl:value-of select="variety"/>
+            </td>
+            <td class="vintage">
+                <xsl:value-of select="vintage"/>
+            </td>
+            <td class="wineregion">
+                <xsl:value-of select="wineregion"/>
+            </td>
+            <td class="origin">
+                <xsl:value-of select="origin"/>
+            </td>
+            <td class="notes">
+                <xsl:value-of select="notes"/>
+            </td>
+            <td>
+                <img src="{name}.jpg" alt="{name}"/>
+            </td>
         </tr>
     </xsl:template>
 </xsl:stylesheet>

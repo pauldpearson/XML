@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/css" href="vinoXML.css" ?>
 <wine>
     <winedetail>
-        <name>Kenwood Jack London Cabernet Sauvignon</name>
+        <name>Kenwood Jack London</name>
         <category>Red Wine</category>
         <variety>Cabernet Sauvignon</variety>
         <vintage>2013</vintage>
@@ -18,93 +18,134 @@
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
+        <name>Angels Landing</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2013</vintage>
+        <wineregion>Sonoma County</wineregion>
+        <origin>USA</origin>
         <notes>
+            Superior Pinot Noir from Sonoma Coast always seems to be $30 and up. Angels Landing is a steal at 16.99!
+            Angels Landing has become a familiar name for great value just like Robert Mondavi, Deloach, etc. Not only
+            do they make a great Napa Cabernet for the money, but also this Sonoma Coast Pinot Noir that drinks more
+            like a $30 bottle of wine.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Hartford Court</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2014</vintage>
+        <wineregion>Sonoma County</wineregion>
+        <origin>USA</origin>
+        <notes>We love Pinot Noir and in many years make about 15 of them with fruit from the Russian River Valley,
+            Sonoma Coast, Green Valley, Carneros, Anderson Valley, Marin and Oregon appellations. We feel that Pinot
+            Noir makes the most seductive red wine, notable for its supple, silky texture. Pinot Noir is also known for
+            expressing vineyard site characteristics in a transparent manner.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Two Hands Sexy Beast</name>
+        <category>Red Wine</category>
+        <variety>Cabernet Sauvignon</variety>
+        <vintage>2015</vintage>
+        <wineregion>South Australia</wineregion>
+        <origin>AUS</origin>
+        <notes>A succulent wine with aromas of lavender, cranberries and minty floral Asian spice. This is textbook
+            Cabernet Sauvignon and highlights how well McLaren Vale is situated to growing it. Color: Dark red with a
+            vibrant hue. Aroma: Notes of red current, plum, bay leaf, juniper, wet clay and graphite. Palate: Round yet
+            fine and detailed, this medium bodied wine is brimming with lovely fruit density. Notes of red current,
+            cassis, black cherry, and plum lead the charge, supported by secondary notes of bay leaf, graphite, wet clay
+            and chocolate. Starting early, tannins are savoury in nature and run long through the palate complimented by
+            lovely accents of ash and coal dust. Dense and chewy through to the finish, this wine has excellent length.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Clos des Papes</name>
+        <category>Red Wine</category>
+        <variety>Chateauneuf-du-Pape</variety>
+        <vintage>2015</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>For the red Chateauneuf, Clos des Papes uses up to 20% of Mourvedre in the blend. Grenache and Syrah are
+            the other main components at around 50% and 10% respectively, with the balance being a mix of all the other
+            permitted varieties. Clos des Papes is one of the few estates to use all permitted varieties for both red
+            and white Chateauneuf. They are well-known for producing one of the most authentic and long-lived examples
+            of the appellation having started estate bottling in 1896. The white Chateauneuf-du-Pape also ages extremely
+            well providing great drinking pleasure for 20 years or more.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Brancaia Tre</name>
+        <category>Red Wine</category>
+        <variety>Sangiovese</variety>
+        <vintage>2013</vintage>
+        <wineregion>Tuscany</wineregion>
+        <origin>ITA</origin>
+        <notes>Brancaia TRE is a wine full of character giving you drinking pleasure already at the moment of release.
+            TRE stands for the three grape varieties Sangiovese, Merlot and Cabernet Sauvignon and for our three Tuscan
+            estates, the basis for this wine. TRE was also our third label in 2000 so we have three good reasons to name
+            it Brancaia TRE. This elegant and well structured wine, matches every cuisine. Pair with various pasta
+            dishes, roasted and sautéed white meat, white poultry, fried and grilled fish.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Melville Estate</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2014</vintage>
+        <wineregion>Central Coast</wineregion>
+        <origin>USA</origin>
+        <notes>Brilliant ruby in color, vivid aromatics of red currants, cedar and cinnamon stick spring from the glass.
+            On the palate, delicate and lifted floral notes of crushed rose petal and hibiscus are anchored by more
+            tender impressions of strawberry gelatin, tangerine oil, black cherry compote and baked red apples. The
+            mouthfeel is focused and vibrant, possessing a gorgeous mineral component along with lively acidity that
+            augment the wine's generous and cohesive finish.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Château Puech-Haut Prestige</name>
+        <category>Red Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2013</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Château Puech-Haut has been on the critic's radar for some time - which makes sense since the property
+            has employed Michel Rolland, Claude Gros and now Philippe Cambie as consulting enologist. Visionary owner
+            Gérard Bru spares no expense in his quest for excellence. Located quite close to Pic Saint-Loup, in
+            Saint-Drézéry, Puech-Haut is near the far western border of the Rhône valley and benefits from both its
+            proximity to the mediterranean and the rugged, mountainous interior of France. There are slightly over 50
+            hectares planted with Grenache, Syrah, Mourvedre, Cinsault, Carignan, Viognier, Marsanne, Roussanne,
+            Grenache Blanc and Carignan Blanc. The wines from Puech-Haut are rich and lush but also show the earthy and
+            mineral character of the rocky clay-limestone soils of the region.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Argiano Brunello di Montalcino</name>
+        <category>Red Wine</category>
+        <variety>Sangiovese Grosso</variety>
+        <vintage>2011</vintage>
+        <wineregion>Tuscany</wineregion>
+        <origin>ITA</origin>
+        <notes>Argiano's Brunello di Montalcino is distinguished by its elegance and its deep ruby red colour. It
+            presents a good concentration on the mid-palate and a persistent aftertaste, with a rounded and voluptuous
+            body, and interesting, silky tannins. It unites potency and elegance and looks like having a promising
+            future. With its tempting perfumes of red berries and its clean freshness, the complexity of this wine
+            presents an excellent balance. To fully appreciate its qualities, decant the wine at least one hour before
+            serving.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
-        <category></category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <name>Bodega Noemia de Patagonia A Lisa</name>
+        <category>Red Wine</category>
+        <variety>Malbec</variety>
+        <vintage>2015</vintage>
+        <wineregion>Patagonia</wineregion>
+        <origin>ARG</origin>
+        <notes>A dense violet and plum color, with a bouquet of dark berries, cherry, minerals, and cocoa. Medium-bodied
+            with an excellent structure, notes of cherry and cassis; with balanced, persistent tannins. Food Pairing: A
+            flexible wine that can be served by the glass on its own; pairs well with pasta, fish, white meats and red
+            meats.
         </notes>
     </winedetail>
 </wine>
