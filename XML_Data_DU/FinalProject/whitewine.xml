@@ -3,103 +3,140 @@
 <?xml-stylesheet type="text/css" href="vinoXML.css" ?>
 <wine>
     <winedetail>
-        <name></name>
+        <name>Radio-Coteau Savoy</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Chardonnay</variety>
+        <vintage>2013</vintage>
+        <wineregion>North Coast</wineregion>
+        <origin>USA</origin>
+        <notes>The 2013 Savoy Anderson Valley Chardonnay is light straw in color. Simultaneously driven by its fruit and
+            mineral character, notes of lemon rind, fresh grapefruit, and ripe pear can initially be picked out on the
+            nose along with a slight flintiness. While the fruit tones remain on the palette, the mineral flintiness
+            gives way to chalkiness, adding to the complexity. Additional elements of citrus blossom, white pepper and
+            parsley round out the nose and palette of this wine, lending it to pair gracefully with fresh, simple
+            ingredients. Drinking well in the present yet will reward a patient cellarer.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Astrolabe Marlborough</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>MarlboroughAS</wineregion>
+        <origin>NWZ</origin>
+        <notes>Colour/Appearance: Pale straw with green
+            highlights. Aroma/Bouquet: Lemon grass, lime peel and elderflower, with background notes of white currant
+            and red pepper. Palate: Medium-bodied with white peach, gooseberry and citrus flavours, and a dry mineral
+            finish. Suggested Foods: Summer salads, poultry and all seafood, especially green-lipped mussels.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Saintsbury Carneros</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Chardonnay</variety>
+        <vintage>2013</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>Zesty notes of lime, kumquats and green pineapple, with heady powdered lily aromas. On the pallet this
+            wine is energetic from the start with tangy citrus, white peach and cloves. Suggested Pairings: Simple
+            braised chicken thighs with Meyer lemons and olives, whole grilled fish, and Cowgirl Creamery Mt. Tam or
+            Cabot Clothbound Cheddar cheeses.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Grgich Hills</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2014</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>From cool American Canyon and Carneros vineyards in the southern tip of Napa Valley. About 80% of our
+            Sauvignon Blanc is planted to the Musqué clone, which provides elegant floral aromatics. We ferment 80% of
+            the grapes in foudres, large French oak casks, with the remainder in previously-used small French oak
+            barrels.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Seifried</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Nelson</wineregion>
+        <origin>NWZ</origin>
+        <notes>The 2016 Seifried Sauvignon Blanc is lively and flavoursome. Nettle, gooseberry and dried hops define the
+            generous nose. Layers of varietal fruit and a zesty thread of minerally acid run the palate leaving a long,
+            crisp finish.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Cape Mentelle</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Western Australia</wineregion>
+        <origin>AUS</origin>
+        <notes>The vibrant and aromatic blend produces a fresh, distinctive wine that accentuates the unique character
+            of both varieties. Meticulous winemaking preserves the remarkable intensity of fruit flavour and provides
+            the structure, weight and texture that characterise the Cape Mentelle style.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Novellum</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Chardonnay</variety>
+        <vintage>2015</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Someone once made an unflattering comparison between Chardonnay and a part of one's anatomy best left
+            unmentioned, saying, "everyone's got one, no one wants to hear about yours." Sadly Chardonnay is a victim of
+            its own success and frequently a punch line despite being one of the most highly esteemed wines in its guise
+            of Grand Cru Chablis or Montrachet. We are not claiming that Novellum is like these auspicious wines but we
+            will argue that for its price you can hardly find better. For many years we worked with a cooperative in the
+            Languedoc to make Novellum from a special site that in most years had some botrytis, giving the wine weight
+            without resorting to oak. Since that time we've moved the project to the Roussillon where Jean-Marc and
+            Eliane Lafage have some Chardonnay planted near the Mediterranean that makes a remarkably complex and
+            mineral version of the variety. There is no botrytis here so we resort to a small percentage in barrel -
+            usually less than 20%. The remainder of the wine is aged in tank on the lees of Viognier. It remains one of
+            the best values in Chardonnay that you can find.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Bodega Colomé</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Torrontes</variety>
+        <vintage>2016</vintage>
+        <wineregion>Calchaqui Valley</wineregion>
+        <origin>ARG</origin>
+        <notes>Colomé Torrontés is a delicate, elegant and distinguished interpretation of this variety, with floral
+            notes of roses combined with citrus aromas and a spicy hint, making it ideal to match with ethnical food,
+            such as mexican, peruvian and seafood.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Trefethen</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Chardonnay</variety>
+        <vintage>2015</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>The nose opens with bursts of orange blossoms and hints of lemon cream pie. The palate is full yet
+            bright, offering a pleasant viscosity and subtle notes of kiwi. The clean finish adds an exclamation point
+            with elegance. Food Affinities: The perfect balance of body and acidity makes this an ideal food wine. It
+            will shine with light dishes featuring shellfish, grilled fish, chicken or pasta with spring vegetables.
+            Fresh tarragon as an accent herb works quite well.
         </notes>
     </winedetail>
     <winedetail>
-        <name></name>
+        <name>Nautilus</name>
         <category>White Wine</category>
-        <variety></variety>
-        <vintage></vintage>
-        <wineregion></wineregion>
-        <origin></origin>
-        <notes>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Marlborough</wineregion>
+        <origin>NWZ</origin>
+        <notes>The 2016 Nautilus Sauvignon Blanc displays intense aromas of ripe passionfruit, elderflower, limes and
+            fresh herbs. The palate introduces a delightful lime/citrus based mouth-watering intensity and finishes with
+            a strong textural component. Delicious upon release, this wine will improve for 3-5 years post vintage. Try
+            with Snapper ceviche with chilli and lime, avocado and tomato, with coriander salsa.
         </notes>
     </winedetail>
 </wine>

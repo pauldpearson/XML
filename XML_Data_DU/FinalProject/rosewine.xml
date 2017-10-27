@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="vinoXML.xsl" ?>
+<?xml-stylesheet type="text/css" href="vinoXML.css" ?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<wine>
+    <winedetail>
+        <name>The Ned</name>
+        <category>Rosé Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2015</vintage>
+        <wineregion>Marlborough</wineregion>
+        <origin>NWZ</origin>
+        <notes>A sensitively handled blend of two Pinot varieties; one where the Noir delivers a long, saturated core of
+            pure berry fruit flavour with crisp acid edges and a lightly drying tannin tail whilst the Gris provides the
+            perfect juxtaposition - a subtle richness that lends fruit sweetness, flesh and palate texture.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Butternut</name>
+        <category>Rosé Wine</category>
+        <variety>Syrah</variety>
+        <vintage>2016</vintage>
+        <wineregion>Central Coast</wineregion>
+        <origin>USA</origin>
+        <notes>Sweet scents of watermelon, citrus and pale florals fill the air. On the palate, an array
+            of strawberry and grapefruit entwine to deliver a crisp, acidic finish.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Conundrum</name>
+        <category>Rosé Wine</category>
+        <variety>Valdiguié</variety>
+        <vintage>2016</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>An alluring color of rose gold, this wine offers fresh scents of watermelon, strawberries and ripe
+            peaches. Floral notes come through on the nose and carry over to the palate, along with flavors of berries,
+            pomegranate and citrus. Both dry and round, layers of delicate and intense fruit flavors add a degree of
+            character that can be elusive in a Rosé. The finish on this wine is light and bright, with a floral quality
+            blending seamlessly with the lushness of its fruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Domaine LaFage Miraflors</name>
+        <category>Rosé Wine</category>
+        <variety>Mourvédre</variety>
+        <vintage>2016</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Named after an old estate located in the heart of Domaine Lafage, Mas Miraflors, the Miraflors Rosé is
+            sourced from old vines of Grenache Gris, nearing 80 years old, planted near the Mediterranean. Added to this
+            is some Mourvedre that Jean-Marc planted here about 15 years ago. This a direct press rosé with the color
+            coming from the skins of the pink Grenache Gris berries, and naturally, from the much darker Mourvedre. It
+            is aged in tank for 4 months before bottling.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Gabriel Meffre Cotes du Rhone Terres de Galets</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>A rose of Cotes du Rhone. 60% Syrah, 40% Grenache Gris. Summer strawberries, vanilla,
+            and wisps of red delicious apples. Such an amazing rose for the price. Soft, supple and very inviting! Have
+            this rose with Parmesan fingerlings, apricot glazed salmon or chocolate filled croissants.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Hippolyte Reverdy Sancerre</name>
+        <category>Rosé Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2016</vintage>
+        <wineregion>Loire Valley</wineregion>
+        <origin>FRA</origin>
+        <notes>Hippolyte Reverdy's family has been making wine in the charming village of Verdigny, a commune of
+            Sancerre in the eastern Loire, for many generations. The rosé is vinified like the whites, but at slightly
+            cooler temperatures.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>AIX</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>AIX Rosé is the result of dedication and passion to make the best Provence Rosé available. When drinking
+            AIX you will notice a tremendously vibrant and summery taste, the ultimate expression of the Provence. AIX
+            has a bright, pale pink color and has a delicate balance of crisp acidity and soft, ripe summer fruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Château Gassier Esprit Gassier</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>A very clear rosé with shades of peach; floral nose with white and yellow fruit notes (peach, apricot,
+            pear); in the mouth, round and delicate with notes of white peach, mandarin and grapefruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Coeur Clementine</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>Unique composition of Cinsault, Grenache, Tibouren and Mauverde. A fruity yet mineral-driven wine, light
+            in color but explodes on the palate.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Mas des Bressades Cuvee Tradition</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>The lovely Mas des Bressades Rosé is raspberry in color. It displays delicious wild strawberry,
+            raspberry, and rosé petal aromas, with a lovely underlying minerality. Powerful and pure. Fish or grilled
+            meat.
+        </notes>
+    </winedetail>
+</wine>

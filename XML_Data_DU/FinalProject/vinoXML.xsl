@@ -8,6 +8,7 @@
             <head>
                 <title>Wine Collection</title>
                 <link rel="stylesheet" type="text/css" href="vinoXML.css"/>
+                <link rel="stylesheet" type="text/css" href="style.css"/>
             </head>
             <body>
                 <h1>Wine Collection</h1>
@@ -22,7 +23,9 @@
                         <th class="notes">Notes</th>
                         <th class="photo">Photo</th>
                     </tr>
-                    <xsl:apply-templates select="wine/winedetail"/>
+                    <xsl:apply-templates select="wine/winedetail">
+                        <xsl:sort select="vintage" order="descending"/>
+                    </xsl:apply-templates>
                 </table>
             </body>
         </html>
