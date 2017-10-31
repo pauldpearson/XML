@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:stylesheet version="12.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
-    <xsl:output method="html" indent="yes"/>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:output method="html"/>
 
     <xsl:template match="/">
         <html>
             <head>
-                <title>Wine Collection</title>
+                <title>Vino XML</title>
                 <link rel="stylesheet" type="text/css" href="vinoXML.css"/>
-                <link rel="stylesheet" type="text/css" href="style.css"/>
             </head>
             <body>
-                <h1>Wine Collection</h1>
+                <h1>Vino XML</h1>
                 <table class="winedetail">
                     <tr>
                         <th class="name">Name</th>
@@ -24,7 +23,7 @@
                         <th class="photo">Photo</th>
                     </tr>
                     <xsl:apply-templates select="wine/winedetail">
-                        <xsl:sort select="vintage" order="descending"/>
+                        <xsl:sort select="origin" order="descending"/>
                     </xsl:apply-templates>
                 </table>
             </body>
@@ -55,7 +54,8 @@
                 <xsl:value-of select="notes"/>
             </td>
             <td>
-                <img src="{name}.jpg" alt="{name}"/>
+                <img src="/Users/Pearson/github/XML/XML/XML_Data_DU/FinalProject/photos/{name}.jpg"
+                     alt="{name}"/>
             </td>
         </tr>
     </xsl:template>
