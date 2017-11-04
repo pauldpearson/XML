@@ -1,13 +1,19 @@
-declare default element namespace "http://toiletmap.gov.au/";
+(: Paul Pearson :)
+(: toilet.1.xqy :)
 
+declare namespace tm="http://toiletmap.gov.au/";
+declare copy-namespaces no-preserve, no-inherit ;
 
-let $d := doc("ToiletmapExport.xml")//ToiletDetails
-return<Toilet>{$d}</Toilet>
+let $doc := doc('ToiletmapExport.xml')//tm:ToiletDetails
 
+let $unisexBabyNokey := $doc[tm:AccessibilityDetails/tm:AccessibleUnisex="true"]
+ [tm:GeneralDetails/tm:KeyRequired="false"]
+ [tm:Features/tm:BabyChange="true"]
+ [year-from-date(@LastUpdateDate) >= 2013]
 
-(:let $unisexBabyNokey :=:)
-(:$doc[AccessibilityDetails/AccessibleUnisex="true"]:)
-(:[GenerabilityDetails/KeyRequired="false"][Features/BabyChange="true"]:)
-(:[fn:year-from-date(@LastUpdateDate) >= 2011]:)
-
-(:return count($unisexBabyNokey):)
+return <Toilets>
+{
+ for $x in $unisexBabyNokey
+ return <latitude>{string($x/@Latitude)}</latitude>
+}
+</Toilets>
