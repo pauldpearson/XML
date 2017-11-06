@@ -6,14 +6,20 @@ declare copy-namespaces no-preserve, no-inherit ;
 
 let $doc := doc('ToiletmapExport.xml')//tm:ToiletDetails
 
-let $unisexBabyNokey := $doc[tm:AccessibilityDetails/tm:AccessibleUnisex="true"]
- [tm:GeneralDetails/tm:KeyRequired="false"]
- [tm:Features/tm:BabyChange="true"]
- [year-from-date(@LastUpdateDate) >= 2013]
-
 return <Toilets>
 {
- for $x in $unisexBabyNokey
- return <latitude>{string($x/@Latitude)}</latitude>
+for $x in $doc
+return <latitude>{string($x/@Latitude)}</latitude>
+}
+{
+for $x in $doc
+return <longitude>{string($x/@Longitude)}</longitude>
+}
+{
+for $x in $doc
+return <town>{string($x/Town)}</town>
 }
 </Toilets>
+
+
+
