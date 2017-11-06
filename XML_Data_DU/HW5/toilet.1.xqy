@@ -15,24 +15,25 @@ xmlns:xs="http://www.w3.org/2001/XMLSchema">
 </output:serialization-parameters>
 
 {
-for $Toilets in doc("ToiletmapExport.xml")//ToiletDetails
-where $Toilets/Town="Narrandera"
-return
-(
-<Toilet>
-<Latitude>
-{ string($Toilets/@Latitude) }
-</Latitude>
-<Longitude>
-{ string($Toilets/@Longitude) }
-</Longitude>
-{$Toilets/Town}
-{$Toilets/State}
-<Country>Australia</Country>
-{$Toilets/Name}
-{$Toilets/GeneralDetails/FacilityType}
-</Toilet>,
-"&#xa;")
+    for $Toilets in doc("ToiletmapExport.xml")//ToiletDetails
+    where $Toilets/Town="Narrandera"
+    return
+        (
+        <Toilet>
+        <Latitude>
+            { string($Toilets/@Latitude) }
+        </Latitude>
+        <Longitude>
+            { string($Toilets/@Longitude) }
+        </Longitude>
+            {$Toilets/Town}
+            {$Toilets/State}
+        <Country>Australia</Country>
+            {$Toilets/Name}
+            {$Toilets/GeneralDetails/FacilityType}
+        </Toilet>,
+        "&#xa;"
+        )
 }
 
 </Toilets>

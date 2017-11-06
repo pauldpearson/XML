@@ -1,0 +1,73 @@
+Pauls-MacBook-Pro:HW5 PaulPearson$ java -cp saxon9he.jar net.sf.saxon.Query -q:toilet.1.xqy '!indent=yes'
+<?xml version="1.0" encoding="UTF-8"?>
+<Toilets xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes"
+         xmlns="http://toiletmap.gov.au/">
+   <output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
+      <output:indent value="yes"/>
+   </output:serialization-parameters>
+   <Toilet>
+      <Latitude>-34.74526121</Latitude>
+      <Longitude>146.5504129</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Narrandera Park</Name>
+      <FacilityType>Park or reserve</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.75401588</Latitude>
+      <Longitude>146.5505775</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Brewery Flat Oval</Name>
+      <FacilityType>Park or reserve</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.75512945</Latitude>
+      <Longitude>146.5660436</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Lake Talbot</Name>
+      <FacilityType>Park or reserve</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.74650761</Latitude>
+      <Longitude>146.5538804</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Kiesling Lane</Name>
+      <FacilityType>Other</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.745734</Latitude>
+      <Longitude>146.56484</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Narrandera Caravan Dump Point</Name>
+      <FacilityType>Other</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.74115462</Latitude>
+      <Longitude>146.5689067</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Henry Mathieson Oval (Ferriertown Oval)</Name>
+      <FacilityType>Sporting facility</FacilityType>
+   </Toilet>
+   <Toilet>
+      <Latitude>-34.74650799</Latitude>
+      <Longitude>146.54984741</Longitude>
+      <Town>Narrandera</Town>
+      <State>New South Wales</State>
+      <Country>Australia</Country>
+      <Name>Narrandera Park - Playground</Name>
+      <FacilityType>Park or reserve</FacilityType>
+   </Toilet>
+</Toilets>Pauls-MacBook-Pro:HW5 PaulPearson$
