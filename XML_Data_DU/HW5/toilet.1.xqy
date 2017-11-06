@@ -1,24 +1,40 @@
 (: Paul Pearson :)
 (: toilet.1.xqy :)
 
-declare namespace tm="http://toiletmap.gov.au/";
-declare copy-namespaces no-preserve, no-inherit ;
+xquery version "3.0" encoding "utf-8";
+declare default element namespace "http://toiletmap.gov.au/";
 
-let $doc := doc('ToiletmapExport.xml')//tm:ToiletDetails
+<Toilets
+xmlns="http://toiletmap.gov.au/"
+xmlns:xsd="http://www.w3.org/2001/XMLSchema-datatypes"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-return <Toilets>
+<output:serialization-parameters xmlns:output="http://www.w3.org/2010/xslt-xquery-serialization">
+<output:indent value="yes"/>
+</output:serialization-parameters>
+
 {
-for $x in $doc
-return <latitude>{string($x/@Latitude)}</latitude>
+for $Toilets in doc("ToiletmapExport.xml")//ToiletDetails
+where $Toilets/Town="Narrandera"
+return
+(
+<Toilet>
+<Latitude>
+{ string($Toilets/@Latitude) }
+</Latitude>
+<Longitude>
+{ string($Toilets/@Longitude) }
+</Longitude>
+{$Toilets/Town}
+{$Toilets/State}
+<Country>Australia</Country>
+{$Toilets/Name}
+{$Toilets/GeneralDetails/FacilityType}
+</Toilet>,
+"&#xa;")
 }
-{
-for $x in $doc
-return <longitude>{string($x/@Longitude)}</longitude>
-}
-{
-for $x in $doc
-return <town>{string($x/Town)}</town>
-}
+
 </Toilets>
 
 
