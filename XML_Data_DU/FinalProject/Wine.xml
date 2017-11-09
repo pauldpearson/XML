@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="vinoXML.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="Wine.xsl" ?>
 <?xml-stylesheet type="text/css" href="vinoXML.css" ?>
-<wine xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:targetNamespace="vinoXML.xsd">
+<wine>
     <winedetail>
         <name>Kenwood Jack London</name>
         <category>Red Wine</category>
