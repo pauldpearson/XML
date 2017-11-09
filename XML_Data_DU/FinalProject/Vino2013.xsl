@@ -9,11 +9,14 @@
             </head>
             <body>
                 <h1>Vino</h1>
-                <!--<div class="center">-->
-                    <!--<a href="" class="button">Vino Home</a>-->
-                    <!--<a href="" class="button">Vino Stats by Vintage</a>-->
-                    <!--<a href="" class="button">Vino Stats by Country</a>-->
-                <!--</div>-->
+                <div class="center">
+                    <a href="VinoHome.xml" class="button">Vino Home</a>
+                    <a href="VinoVintageSort.xml" class="button">Vino Vintage Sort</a>
+                    <a href="Vino2013.xml" class="button">2013 Vino</a>
+                    <a href="Vino2014.xml" class="button">2014 Vino</a>
+                    <a href="FrenchVino.xml" class="button">Vino Francé</a>
+                    <a href="USAVino.xml" class="button">Vino American</a>
+                </div>
                 <table class="winedetail">
                     <tr>
                         <th class="name">Name</th>
@@ -25,9 +28,7 @@
                         <th class="notes">Notes</th>
                         <th class="photo">Photo</th>
                     </tr>
-                    <xsl:apply-templates select="wine/winedetail">
-                        <xsl:sort select="vintage"/>
-                    </xsl:apply-templates>
+                    <xsl:apply-templates select="wine/winedetail[vintage = 2013]"/>
                 </table>
             </body>
         </html>

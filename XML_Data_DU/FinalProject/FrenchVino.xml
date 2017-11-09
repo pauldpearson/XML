@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="FrenchVino.xsl" ?>
+<?xml-stylesheet type="text/css" href="vinoXML.css" ?>
+<wine>
+    <winedetail>
+        <name>Kenwood Jack London</name>
+        <category>Red Wine</category>
+        <variety>Cabernet Sauvignon</variety>
+        <vintage>2013</vintage>
+        <wineregion>Sonoma County</wineregion>
+        <origin>USA</origin>
+        <notes>
+            Since our first vintage from the Jack London Ranch in 1976 it has proven itself as an outstanding producer
+            of exceptional Cabernet Sauvignon. Located midway up the Eastern flanks of Sonoma Mountain it has a long
+            mild growing season that creates fruit with complexity and balance. The influence of the vineyard's red
+            volcanic soil and the fruity characteristics of the grapes combine to produce an outstanding, very
+            distinctive Cabernet Sauvignon.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Angels Landing</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2013</vintage>
+        <wineregion>Sonoma County</wineregion>
+        <origin>USA</origin>
+        <notes>
+            Superior Pinot Noir from Sonoma Coast always seems to be $30 and up. Angels Landing is a steal at 16.99!
+            Angels Landing has become a familiar name for great value just like Robert Mondavi, Deloach, etc. Not only
+            do they make a great Napa Cabernet for the money, but also this Sonoma Coast Pinot Noir that drinks more
+            like a $30 bottle of wine.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Hartford Court</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2014</vintage>
+        <wineregion>Sonoma County</wineregion>
+        <origin>USA</origin>
+        <notes>We love Pinot Noir and in many years make about 15 of them with fruit from the Russian River Valley,
+            Sonoma Coast, Green Valley, Carneros, Anderson Valley, Marin and Oregon appellations. We feel that Pinot
+            Noir makes the most seductive red wine, notable for its supple, silky texture. Pinot Noir is also known for
+            expressing vineyard site characteristics in a transparent manner.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Two Hands Sexy Beast</name>
+        <category>Red Wine</category>
+        <variety>Cabernet Sauvignon</variety>
+        <vintage>2015</vintage>
+        <wineregion>South Australia</wineregion>
+        <origin>AUS</origin>
+        <notes>A succulent wine with aromas of lavender, cranberries and minty floral Asian spice. This is textbook
+            Cabernet Sauvignon and highlights how well McLaren Vale is situated to growing it. Color: Dark red with a
+            vibrant hue. Aroma: Notes of red current, plum, bay leaf, juniper, wet clay and graphite. Palate: Round yet
+            fine and detailed, this medium bodied wine is brimming with lovely fruit density. Notes of red current,
+            cassis, black cherry, and plum lead the charge, supported by secondary notes of bay leaf, graphite, wet clay
+            and chocolate. Starting early, tannins are savoury in nature and run long through the palate complimented by
+            lovely accents of ash and coal dust. Dense and chewy through to the finish, this wine has excellent length.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Clos des Papes</name>
+        <category>Red Wine</category>
+        <variety>Chateauneuf-du-Pape</variety>
+        <vintage>2015</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>For the red Chateauneuf, Clos des Papes uses up to 20% of Mourvedre in the blend. Grenache and Syrah are
+            the other main components at around 50% and 10% respectively, with the balance being a mix of all the other
+            permitted varieties. Clos des Papes is one of the few estates to use all permitted varieties for both red
+            and white Chateauneuf. They are well-known for producing one of the most authentic and long-lived examples
+            of the appellation having started estate bottling in 1896. The white Chateauneuf-du-Pape also ages extremely
+            well providing great drinking pleasure for 20 years or more.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Brancaia Tre</name>
+        <category>Red Wine</category>
+        <variety>Sangiovese</variety>
+        <vintage>2013</vintage>
+        <wineregion>Tuscany</wineregion>
+        <origin>ITA</origin>
+        <notes>Brancaia TRE is a wine full of character giving you drinking pleasure already at the moment of release.
+            TRE stands for the three grape varieties Sangiovese, Merlot and Cabernet Sauvignon and for our three Tuscan
+            estates, the basis for this wine. TRE was also our third label in 2000 so we have three good reasons to name
+            it Brancaia TRE. This elegant and well structured wine, matches every cuisine. Pair with various pasta
+            dishes, roasted and sautéed white meat, white poultry, fried and grilled fish.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Melville Estate</name>
+        <category>Red Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2014</vintage>
+        <wineregion>Central Coast</wineregion>
+        <origin>USA</origin>
+        <notes>Brilliant ruby in color, vivid aromatics of red currants, cedar and cinnamon stick spring from the glass.
+            On the palate, delicate and lifted floral notes of crushed rose petal and hibiscus are anchored by more
+            tender impressions of strawberry gelatin, tangerine oil, black cherry compote and baked red apples. The
+            mouthfeel is focused and vibrant, possessing a gorgeous mineral component along with lively acidity that
+            augment the wine's generous and cohesive finish.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Château Puech-Haut Prestige</name>
+        <category>Red Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2013</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Château Puech-Haut has been on the critic's radar for some time - which makes sense since the property
+            has employed Michel Rolland, Claude Gros and now Philippe Cambie as consulting enologist. Visionary owner
+            Gérard Bru spares no expense in his quest for excellence. Located quite close to Pic Saint-Loup, in
+            Saint-Drézéry, Puech-Haut is near the far western border of the Rhône valley and benefits from both its
+            proximity to the mediterranean and the rugged, mountainous interior of France. There are slightly over 50
+            hectares planted with Grenache, Syrah, Mourvedre, Cinsault, Carignan, Viognier, Marsanne, Roussanne,
+            Grenache Blanc and Carignan Blanc. The wines from Puech-Haut are rich and lush but also show the earthy and
+            mineral character of the rocky clay-limestone soils of the region.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Argiano Brunello di Montalcino</name>
+        <category>Red Wine</category>
+        <variety>Sangiovese Grosso</variety>
+        <vintage>2011</vintage>
+        <wineregion>Tuscany</wineregion>
+        <origin>ITA</origin>
+        <notes>Argiano's Brunello di Montalcino is distinguished by its elegance and its deep ruby red colour. It
+            presents a good concentration on the mid-palate and a persistent aftertaste, with a rounded and voluptuous
+            body, and interesting, silky tannins. It unites potency and elegance and looks like having a promising
+            future. With its tempting perfumes of red berries and its clean freshness, the complexity of this wine
+            presents an excellent balance. To fully appreciate its qualities, decant the wine at least one hour before
+            serving.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Bodega Noemia de Patagonia A Lisa</name>
+        <category>Red Wine</category>
+        <variety>Malbec</variety>
+        <vintage>2015</vintage>
+        <wineregion>Patagonia</wineregion>
+        <origin>ARG</origin>
+        <notes>A dense violet and plum color, with a bouquet of dark berries, cherry, minerals, and cocoa. Medium-bodied
+            with an excellent structure, notes of cherry and cassis; with balanced, persistent tannins. Food Pairing: A
+            flexible wine that can be served by the glass on its own; pairs well with pasta, fish, white meats and red
+            meats.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>The Ned</name>
+        <category>Rosé Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2015</vintage>
+        <wineregion>Marlborough</wineregion>
+        <origin>NWZ</origin>
+        <notes>A sensitively handled blend of two Pinot varieties; one where the Noir delivers a long, saturated core of
+            pure berry fruit flavour with crisp acid edges and a lightly drying tannin tail whilst the Gris provides the
+            perfect juxtaposition - a subtle richness that lends fruit sweetness, flesh and palate texture.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Butternut</name>
+        <category>Rosé Wine</category>
+        <variety>Syrah</variety>
+        <vintage>2016</vintage>
+        <wineregion>Central Coast</wineregion>
+        <origin>USA</origin>
+        <notes>Sweet scents of watermelon, citrus and pale florals fill the air. On the palate, an array
+            of strawberry and grapefruit entwine to deliver a crisp, acidic finish.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Conundrum</name>
+        <category>Rosé Wine</category>
+        <variety>Valdiguié</variety>
+        <vintage>2016</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>An alluring color of rose gold, this wine offers fresh scents of watermelon, strawberries and ripe
+            peaches. Floral notes come through on the nose and carry over to the palate, along with flavors of berries,
+            pomegranate and citrus. Both dry and round, layers of delicate and intense fruit flavors add a degree of
+            character that can be elusive in a Rosé. The finish on this wine is light and bright, with a floral quality
+            blending seamlessly with the lushness of its fruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Domaine LaFage Miraflors</name>
+        <category>Rosé Wine</category>
+        <variety>Mourvédre</variety>
+        <vintage>2016</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Named after an old estate located in the heart of Domaine Lafage, Mas Miraflors, the Miraflors Rosé is
+            sourced from old vines of Grenache Gris, nearing 80 years old, planted near the Mediterranean. Added to this
+            is some Mourvedre that Jean-Marc planted here about 15 years ago. This a direct press rosé with the color
+            coming from the skins of the pink Grenache Gris berries, and naturally, from the much darker Mourvedre. It
+            is aged in tank for 4 months before bottling.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Gabriel Meffre Cotes du Rhone Terres de Galets</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>A rose of Cotes du Rhone. 60% Syrah, 40% Grenache Gris. Summer strawberries, vanilla,
+            and wisps of red delicious apples. Such an amazing rose for the price. Soft, supple and very inviting! Have
+            this rose with Parmesan fingerlings, apricot glazed salmon or chocolate filled croissants.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Hippolyte Reverdy Sancerre</name>
+        <category>Rosé Wine</category>
+        <variety>Pinot Noir</variety>
+        <vintage>2016</vintage>
+        <wineregion>Loire Valley</wineregion>
+        <origin>FRA</origin>
+        <notes>Hippolyte Reverdy's family has been making wine in the charming village of Verdigny, a commune of
+            Sancerre in the eastern Loire, for many generations. The rosé is vinified like the whites, but at slightly
+            cooler temperatures.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>AIX</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>AIX Rosé is the result of dedication and passion to make the best Provence Rosé available. When drinking
+            AIX you will notice a tremendously vibrant and summery taste, the ultimate expression of the Provence. AIX
+            has a bright, pale pink color and has a delicate balance of crisp acidity and soft, ripe summer fruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Château Gassier Esprit Gassier</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>A very clear rosé with shades of peach; floral nose with white and yellow fruit notes (peach, apricot,
+            pear); in the mouth, round and delicate with notes of white peach, mandarin and grapefruit.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Coeur Clementine</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Provence</wineregion>
+        <origin>FRA</origin>
+        <notes>Unique composition of Cinsault, Grenache, Tibouren and Mauverde. A fruity yet mineral-driven wine, light
+            in color but explodes on the palate.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Mas des Bressades Cuvee Tradition</name>
+        <category>Rosé Wine</category>
+        <variety>Grenache</variety>
+        <vintage>2016</vintage>
+        <wineregion>Rhone</wineregion>
+        <origin>FRA</origin>
+        <notes>The lovely Mas des Bressades Rosé is raspberry in color. It displays delicious wild strawberry,
+            raspberry, and rosé petal aromas, with a lovely underlying minerality. Powerful and pure. Fish or grilled
+            meat.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Radio-Coteau Savoy</name>
+        <category>White Wine</category>
+        <variety>Chardonnay</variety>
+        <vintage>2013</vintage>
+        <wineregion>North Coast</wineregion>
+        <origin>USA</origin>
+        <notes>The 2013 Savoy Anderson Valley Chardonnay is light straw in color. Simultaneously driven by its fruit and
+            mineral character, notes of lemon rind, fresh grapefruit, and ripe pear can initially be picked out on the
+            nose along with a slight flintiness. While the fruit tones remain on the palette, the mineral flintiness
+            gives way to chalkiness, adding to the complexity. Additional elements of citrus blossom, white pepper and
+            parsley round out the nose and palette of this wine, lending it to pair gracefully with fresh, simple
+            ingredients. Drinking well in the present yet will reward a patient cellarer.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Astrolabe Marlborough</name>
+        <category>White Wine</category>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>MarlboroughAS</wineregion>
+        <origin>NWZ</origin>
+        <notes>Colour/Appearance: Pale straw with green
+            highlights. Aroma/Bouquet: Lemon grass, lime peel and elderflower, with background notes of white currant
+            and red pepper. Palate: Medium-bodied with white peach, gooseberry and citrus flavours, and a dry mineral
+            finish. Suggested Foods: Summer salads, poultry and all seafood, especially green-lipped mussels.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Saintsbury Carneros</name>
+        <category>White Wine</category>
+        <variety>Chardonnay</variety>
+        <vintage>2013</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>Zesty notes of lime, kumquats and green pineapple, with heady powdered lily aromas. On the pallet this
+            wine is energetic from the start with tangy citrus, white peach and cloves. Suggested Pairings: Simple
+            braised chicken thighs with Meyer lemons and olives, whole grilled fish, and Cowgirl Creamery Mt. Tam or
+            Cabot Clothbound Cheddar cheeses.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Grgich Hills</name>
+        <category>White Wine</category>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2014</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>From cool American Canyon and Carneros vineyards in the southern tip of Napa Valley. About 80% of our
+            Sauvignon Blanc is planted to the Musqué clone, which provides elegant floral aromatics. We ferment 80% of
+            the grapes in foudres, large French oak casks, with the remainder in previously-used small French oak
+            barrels.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Seifried</name>
+        <category>White Wine</category>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Nelson</wineregion>
+        <origin>NWZ</origin>
+        <notes>The 2016 Seifried Sauvignon Blanc is lively and flavoursome. Nettle, gooseberry and dried hops define the
+            generous nose. Layers of varietal fruit and a zesty thread of minerally acid run the palate leaving a long,
+            crisp finish.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Cape Mentelle</name>
+        <category>White Wine</category>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Western Australia</wineregion>
+        <origin>AUS</origin>
+        <notes>The vibrant and aromatic blend produces a fresh, distinctive wine that accentuates the unique character
+            of both varieties. Meticulous winemaking preserves the remarkable intensity of fruit flavour and provides
+            the structure, weight and texture that characterise the Cape Mentelle style.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Novellum</name>
+        <category>White Wine</category>
+        <variety>Chardonnay</variety>
+        <vintage>2015</vintage>
+        <wineregion>Languedoc-Roussillon</wineregion>
+        <origin>FRA</origin>
+        <notes>Someone once made an unflattering comparison between Chardonnay and a part of one's anatomy best left
+            unmentioned, saying, "everyone's got one, no one wants to hear about yours." Sadly Chardonnay is a victim of
+            its own success and frequently a punch line despite being one of the most highly esteemed wines in its guise
+            of Grand Cru Chablis or Montrachet. We are not claiming that Novellum is like these auspicious wines but we
+            will argue that for its price you can hardly find better. For many years we worked with a cooperative in the
+            Languedoc to make Novellum from a special site that in most years had some botrytis, giving the wine weight
+            without resorting to oak. Since that time we've moved the project to the Roussillon where Jean-Marc and
+            Eliane Lafage have some Chardonnay planted near the Mediterranean that makes a remarkably complex and
+            mineral version of the variety. There is no botrytis here so we resort to a small percentage in barrel -
+            usually less than 20%. The remainder of the wine is aged in tank on the lees of Viognier. It remains one of
+            the best values in Chardonnay that you can find.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Bodega Colomé</name>
+        <category>White Wine</category>
+        <variety>Torrontes</variety>
+        <vintage>2016</vintage>
+        <wineregion>Calchaqui Valley</wineregion>
+        <origin>ARG</origin>
+        <notes>Colomé Torrontés is a delicate, elegant and distinguished interpretation of this variety, with floral
+            notes of roses combined with citrus aromas and a spicy hint, making it ideal to match with ethnical food,
+            such as mexican, peruvian and seafood.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Trefethen</name>
+        <category>White Wine</category>
+        <variety>Chardonnay</variety>
+        <vintage>2015</vintage>
+        <wineregion>Napa Valley</wineregion>
+        <origin>USA</origin>
+        <notes>The nose opens with bursts of orange blossoms and hints of lemon cream pie. The palate is full yet
+            bright, offering a pleasant viscosity and subtle notes of kiwi. The clean finish adds an exclamation point
+            with elegance. Food Affinities: The perfect balance of body and acidity makes this an ideal food wine. It
+            will shine with light dishes featuring shellfish, grilled fish, chicken or pasta with spring vegetables.
+            Fresh tarragon as an accent herb works quite well.
+        </notes>
+    </winedetail>
+    <winedetail>
+        <name>Nautilus</name>
+        <category>White Wine</category>
+        <variety>Sauvignon Blanc</variety>
+        <vintage>2016</vintage>
+        <wineregion>Marlborough</wineregion>
+        <origin>NWZ</origin>
+        <notes>The 2016 Nautilus Sauvignon Blanc displays intense aromas of ripe passionfruit, elderflower, limes and
+            fresh herbs. The palate introduces a delightful lime/citrus based mouth-watering intensity and finishes with
+            a strong textural component. Delicious upon release, this wine will improve for 3-5 years post vintage. Try
+            with Snapper ceviche with chilli and lime, avocado and tomato, with coriander salsa.
+        </notes>
+    </winedetail>
+</wine>
