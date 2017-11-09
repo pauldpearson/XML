@@ -9,11 +9,11 @@
             </head>
             <body>
                 <h1>Vino</h1>
-                <div class="center">
-                    <a href="" class="button">Vino Home</a>
-                    <a href="" class="button">Vino Stats by Vintage</a>
-                    <a href="" class="button">Vino Stats by Country</a>
-                </div>
+                <!--<div class="center">-->
+                    <!--<a href="" class="button">Vino Home</a>-->
+                    <!--<a href="" class="button">Vino Stats by Vintage</a>-->
+                    <!--<a href="" class="button">Vino Stats by Country</a>-->
+                <!--</div>-->
                 <table class="winedetail">
                     <tr>
                         <th class="name">Name</th>
@@ -57,7 +57,7 @@
                 <xsl:value-of select="notes"/>
             </td>
             <td>
-                <img src="/Users/Pearson/github/XML/XML/XML_Data_DU/FinalProject/photos/{name}.jpg"
+                <img src="photos/{name}.jpg"
                      alt="{name}"/>
             </td>
         </tr>
