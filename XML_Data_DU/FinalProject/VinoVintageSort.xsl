@@ -30,6 +30,7 @@
                     </tr>
                     <xsl:apply-templates select="wine/winedetail">
                         <xsl:sort select="vintage"/>
+                        <xsl:sort select="origin"/>
                     </xsl:apply-templates>
                 </table>
             </body>
