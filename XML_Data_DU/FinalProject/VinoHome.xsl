@@ -23,7 +23,6 @@
                     <h1>Vino</h1>
                 </div>
 
-
                 <div class="winedetail">
                     <table>
                     <tr>
