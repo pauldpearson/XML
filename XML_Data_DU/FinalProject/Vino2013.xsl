@@ -16,6 +16,7 @@
                     <a href="Vino2014.xml" class="button">2014 Vino</a>
                     <a href="FrenchVino.xml" class="button">Vino Francé</a>
                     <a href="USAVino.xml" class="button">Vino American</a>
+                    <a href="VinoCompute.xml" class="button">Vino Compute</a>
                 </div>
                 <table class="winedetail">
                     <tr>

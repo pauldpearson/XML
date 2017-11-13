@@ -8,16 +8,24 @@
                 <link rel="stylesheet" type="text/css" href="vinoXML.css"/>
             </head>
             <body>
-                <h1>Vino</h1>
-                <div class="center">
-                    <a href="VinoHome.xml" class="button">Vino Home</a>
-                    <a href="VinoVintageSort.xml" class="button">Vino Vintage Sort</a>
-                    <a href="Vino2013.xml" class="button">2013 Vino</a>
-                    <a href="Vino2014.xml" class="button">2014 Vino</a>
-                    <a href="FrenchVino.xml" class="button">Vino Francé</a>
-                    <a href="USAVino.xml" class="button">Vino American</a>
+                <div class="nav">
+                    <ul>
+                        <li><a href="VinoHome.xml" class="button">Vino Home</a></li>
+                        <li><a href="VinoVintageSort.xml" class="button">Vino Vintage Sort</a></li>
+                        <li><a href="Vino2013.xml" class="button">2013 Vino</a></li>
+                        <li><a href="Vino2014.xml" class="button">2014 Vino</a></li>
+                        <li><a href="FrenchVino.xml" class="button">Vino Francé</a></li>
+                        <li><a href="USAVino.xml" class="button">Vino American</a></li>
+                        <li><a href="VinoCompute.xml" class="button">Vino Compute</a></li>
+                    </ul>
                 </div>
-                <table class="winedetail">
+                <div class="header">
+                    <h1>Vino</h1>
+                </div>
+
+
+                <div class="winedetail">
+                    <table>
                     <tr>
                         <th class="name">Name</th>
                         <th class="category">Category</th>
@@ -31,7 +39,8 @@
                     <xsl:apply-templates select="wine/winedetail">
                         <xsl:sort select="name"/>
                     </xsl:apply-templates>
-                </table>
+                    </table>
+                </div>
             </body>
         </html>
     </xsl:template>

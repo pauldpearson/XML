@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="http://mysite.du.edu/~mschwart/xml/evaluationForm.xsl"?>
+<evaluationForm
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://mysite.du.edu/~mschwart/xml/evaluationForm.xsd">
+  <!-- Name of the project's author -->
+  <projectAuthorName>
+    <last>Cory</last>
+    <first>Merrell</first>
+  </projectAuthorName>
+  <!-- Name of you, the reviewer -->
+  <respondentName duID="">
+    <last>Pearson</last>
+    <first>Paul</first>
+  </respondentName>
+  <!-- Criteria are evaluated as yes/no or true/false -->
+  <criteria>
+    <criterion name="Two or more collections" id="crit1">true</criterion>
+    <criterion name="Uses stylesheet" id="crit2">true</criterion>
+    <criterion name="Uses computational stylesheet to display statistics" id="crit3">true</criterion>
+    <criterion name="All stylesheets external" id="crit4">true</criterion>
+    <criterion name="Visual formatting via CSS or XSL only" id="crit5">true</criterion>
+    <criterion name="Properly viewable from Microsoft and non-Microsoft browsers" id="crit6">true</criterion>
+  </criteria>
+  <!-- Your comments are added to the category by provided text content. -->
+  <categories>
+    <category name="Demonstration of basic XHTML syntax" maxScore="15" id="cat1">Cory's project was the best on so many levels.</category>
+    <category name="Demonstration of use of XML Schema" maxScore="20" id="cat2">Yes.</category>
+    <category name="Demonstration of use of CSS" maxScore="20" id="cat3">The best looking by far!</category>
+    <category name="Demonstration of XSL Transformation" maxScore="15" id="cat4">Very much so.</category>
+    <category name="Presentation of content" maxScore="10" id="cat5">Quite nice.</category>
+    <category name="Compatibility with IE and non-IE browser" maxScore="10" id="cat6">Seemed so...</category>
+    <category name="Richness of data and data display" maxScore="10" id="cat7">I've doted enough.  So, yes.</category>
+  </categories>
+  <!-- You may provide other notes below -->
+  <!--
+  <comments>
+    <comment></comment>
+    </comments>
+  -->
+</evaluationForm>
