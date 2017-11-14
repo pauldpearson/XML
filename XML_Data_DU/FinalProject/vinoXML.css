@@ -37,6 +37,11 @@ body {
     width: 100%;
 }
 
+.compute {
+    margin: auto;
+    width: auto;
+}
+
 .nav ul {
     list-style-type: none;
     margin: 0;

@@ -47,7 +47,7 @@
                 </div>
 
                 <div>
-                    <table class="winedetail">
+                    <table class="compute">
                         <tr>
                             <th>Origin</th>
                             <th>Count</th>
