@@ -39,7 +39,12 @@ body {
 
 .compute {
     margin: auto;
-    width: auto;
+    width: 30%;
+}
+
+.totals {
+    color: #99273e;
+    font-weight: bolder;
 }
 
 .nav ul {

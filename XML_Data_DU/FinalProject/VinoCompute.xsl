@@ -9,6 +9,7 @@
         <xsl:variable name="ITA" select="count(wine/winedetail[origin='ITA'])"/>
         <xsl:variable name="AUS" select="count(wine/winedetail[origin='AUS'])"/>
         <xsl:variable name="NWZ" select="count(wine/winedetail[origin='NWZ'])"/>
+        <xsl:variable name="ARG" select="count(wine/winedetail[origin='ARG'])"/>
         <html>
             <body>
                 <head>
@@ -104,7 +105,17 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="Totals">Totals</td>
+                            <td class="ARG">ARG</td>
+                            <td>
+                                <xsl:value-of select="$ARG"/>
+                            </td>
+                            <td>
+                                <xsl:variable name="percentARG" select="$ARG div $total"/>
+                                <xsl:value-of select="format-number($percentARG, '#%')"/>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="totals">Totals</td>
                             <td colspan="2" class="textcenter">
                                 <xsl:value-of select="$total"/>
                             </td>
